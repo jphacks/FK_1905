@@ -1,6 +1,8 @@
 # Te(n)ch-SOZO
-
+# demo　みてね
 [![Te(n)ch-SOZO](image.png)](https://www.youtube.com/watch?v=QPRvvKr-bYg)
+
+# プレゼン資料　みてね
 [![Te(n)ch-SOZO](5.5.png)](https://youtu.be/Z8RlaNomtIc)
 ## 製品概要
 ### 天地創造 X Tech
