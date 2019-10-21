@@ -629,7 +629,9 @@ class Home2(generic.FormView):
             if os.path.exists(dir_path):
                 output = f'既にフォルダが存在しています {dir_path}'
             else:
-                cmd = f'virtualenv {dir_path}'
+                cmd = f'virtualenv {dir_path} --system-site-packages'
+                execute_cmd(cmd)
+                cmd = f'source {dir_path}/bin/activate'
                 execute_cmd(cmd)
                 output = f'{dir_path}をvirtualenvで作りました。'
         else:
@@ -904,7 +906,9 @@ class Home3(generic.FormView):
             if os.path.exists(dir_path):
                 output = f'既にフォルダが存在しています {dir_path}'
             else:
-                cmd = f'virtualenv {dir_path}'
+                cmd = f'virtualenv {dir_path} --system-site-packages'
+                execute_cmd(cmd)
+                cmd = f'source {dir_path}/bin/activate'
                 execute_cmd(cmd)
                 output = f'{dir_path}をvirtualenvで作りました。'
         else:
