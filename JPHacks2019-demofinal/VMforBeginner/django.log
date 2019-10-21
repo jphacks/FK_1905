@@ -1,0 +1,1657 @@
+[INFO]	asctime:2019-10-19 04:55:12,014	module:views	message:hello!	process:2298	thread:123145379545088
+[INFO]	asctime:2019-10-19 04:55:12,467	module:views	message:hello!	process:2298	thread:123145379545088
+[INFO]	asctime:2019-10-19 04:56:35,531	module:views	message:['numpy']	process:2374	thread:123145351639040
+[INFO]	asctime:2019-10-19 04:56:35,962	module:views	message:[]	process:2374	thread:123145351639040
+[INFO]	asctime:2019-10-19 04:57:28,691	module:views	message:pip install -U ['numpy']	process:2453	thread:123145342459904
+[INFO]	asctime:2019-10-19 04:57:29,135	module:views	message:pip install -U []	process:2453	thread:123145342459904
+[INFO]	asctime:2019-10-19 05:00:20,747	module:views	message:pip install -U その他	process:2667	thread:123145511387136
+[INFO]	asctime:2019-10-19 05:01:14,550	module:views	message:pip install -U その他	process:2737	thread:123145323950080
+[INFO]	asctime:2019-10-19 05:01:14,550	module:views	message:pip install -U 機械学習	process:2737	thread:123145323950080
+[INFO]	asctime:2019-10-19 05:14:29,900	module:views	message:pip install -U numpy	process:3622	thread:123145456787456
+[INFO]	asctime:2019-10-19 05:16:01,887	module:views	message:numpy	process:3754	thread:123145572139008
+[INFO]	asctime:2019-10-19 05:16:35,373	module:views	message:pip install -U ['numpy']	process:3758	thread:123145393328128
+[INFO]	asctime:2019-10-19 05:16:35,373	module:views	message:pip install -U []	process:3758	thread:123145393328128
+[INFO]	asctime:2019-10-19 05:17:16,297	module:views	message:pip install -U ['numpy']	process:3826	thread:123145364623360
+[INFO]	asctime:2019-10-19 05:17:16,297	module:views	message:pip install -U []	process:3826	thread:123145364623360
+[INFO]	asctime:2019-10-19 05:18:20,205	module:views	message:pip install -U numpy	process:3903	thread:123145486102528
+[INFO]	asctime:2019-10-19 05:18:53,852	module:views	message:<class 'list'>	process:3975	thread:123145360846848
+[INFO]	asctime:2019-10-19 05:18:53,852	module:views	message:<class 'list'>	process:3975	thread:123145360846848
+[INFO]	asctime:2019-10-19 05:22:51,672	module:views	message:<class 'str'>	process:4180	thread:123145562226688
+[INFO]	asctime:2019-10-19 05:22:51,672	module:views	message:<class 'str'>	process:4180	thread:123145562226688
+[INFO]	asctime:2019-10-19 05:23:11,051	module:views	message:['numpy']	process:4250	thread:123145358684160
+[INFO]	asctime:2019-10-19 05:23:11,051	module:views	message:[]	process:4250	thread:123145358684160
+[INFO]	asctime:2019-10-19 05:29:47,291	module:views	message:[, ', n, u, m, p, y, ', ]	process:4657	thread:123145439608832
+[INFO]	asctime:2019-10-19 05:29:47,291	module:views	message:[, ]	process:4657	thread:123145439608832
+[INFO]	asctime:2019-10-19 05:33:37,161	module:views	message:'numpy'	process:4949	thread:123145554550784
+[INFO]	asctime:2019-10-19 05:33:37,161	module:views	message:	process:4949	thread:123145554550784
+[INFO]	asctime:2019-10-19 05:37:00,122	module:views	message:['numpy']	process:5218	thread:123145573908480
+[INFO]	asctime:2019-10-19 05:37:00,124	module:views	message:[]	process:5218	thread:123145573908480
+[INFO]	asctime:2019-10-19 05:37:34,783	module:views	message:numpy	process:5222	thread:123145551380480
+[INFO]	asctime:2019-10-19 05:38:27,480	module:views	message:1	process:5296	thread:123145511088128
+[INFO]	asctime:2019-10-19 05:38:39,432	module:views	message:1	process:5302	thread:123145573302272
+[INFO]	asctime:2019-10-19 05:38:39,432	module:views	message:0	process:5302	thread:123145573302272
+[INFO]	asctime:2019-10-19 05:39:10,618	module:views	message:1	process:5302	thread:123145573302272
+[INFO]	asctime:2019-10-19 05:39:10,618	module:views	message:0	process:5302	thread:123145573302272
+[INFO]	asctime:2019-10-19 05:40:34,388	module:views	message:numpy	process:5439	thread:123145469075456
+[INFO]	asctime:2019-10-19 05:41:23,697	module:views	message:numpy	process:5507	thread:123145405353984
+[INFO]	asctime:2019-10-19 05:41:59,513	module:views	message:pip install -U numpy	process:5578	thread:123145396572160
+[INFO]	asctime:2019-10-19 05:52:12,189	module:views	message:pip install -U numpy	process:6267	thread:123145483427840
+[INFO]	asctime:2019-10-19 05:52:50,985	module:views	message:pip install -U numpy	process:6278	thread:123145505652736
+[INFO]	asctime:2019-10-19 05:53:06,963	module:views	message:pip install -U numpy	process:6349	thread:123145475678208
+[INFO]	asctime:2019-10-19 05:53:06,964	module:views	message:pip install -U keras	process:6349	thread:123145475678208
+[INFO]	asctime:2019-10-19 05:53:57,918	module:views	message:pip install -U numpy	process:6421	thread:123145406439424
+[INFO]	asctime:2019-10-19 05:53:57,918	module:views	message:pip install -U keras	process:6421	thread:123145406439424
+[INFO]	asctime:2019-10-19 05:57:06,016	module:views	message:['numpy']	process:6561	thread:123145493073920
+[INFO]	asctime:2019-10-19 05:57:06,016	module:views	message:pip install -U numpy	process:6561	thread:123145493073920
+[INFO]	asctime:2019-10-19 05:57:06,016	module:views	message:['keras']	process:6561	thread:123145493073920
+[INFO]	asctime:2019-10-19 05:57:06,016	module:views	message:pip install -U keras	process:6561	thread:123145493073920
+[INFO]	asctime:2019-10-19 05:57:38,934	module:views	message:{'その他': ['numpy'], '機械学習': ['keras']}	process:6630	thread:123145410183168
+[INFO]	asctime:2019-10-19 05:57:38,934	module:views	message:pip install -U numpy	process:6630	thread:123145410183168
+[INFO]	asctime:2019-10-19 05:57:38,935	module:views	message:pip install -U keras	process:6630	thread:123145410183168
+[INFO]	asctime:2019-10-19 05:57:58,349	module:views	message:{'その他': ['numpy', 'opencv-python'], '機械学習': ['keras', 'tensorflow', 'chainer']}	process:6630	thread:123145410183168
+[INFO]	asctime:2019-10-19 05:57:58,350	module:views	message:pip install -U numpy	process:6630	thread:123145410183168
+[INFO]	asctime:2019-10-19 05:57:58,350	module:views	message:pip install -U keras	process:6630	thread:123145410183168
+[INFO]	asctime:2019-10-19 05:59:01,086	module:views	message:{'その他': ['numpy', 'opencv-python'], '機械学習': []}	process:6704	thread:123145392566272
+[INFO]	asctime:2019-10-19 05:59:01,086	module:views	message:pip install -U numpy	process:6704	thread:123145392566272
+[INFO]	asctime:2019-10-19 06:05:57,204	module:views	message:{'その他': ['numpy'], '機械学習': ['keras']}	process:7207	thread:123145373134848
+[INFO]	asctime:2019-10-19 06:05:57,204	module:views	message:pip install -U numpy	process:7207	thread:123145373134848
+[INFO]	asctime:2019-10-19 06:05:57,204	module:views	message:pip install -U keras	process:7207	thread:123145373134848
+[INFO]	asctime:2019-10-20 00:03:20,393	module:views	message:{'���̑�': [], '�@�B�w�K': []}	process:19932	thread:7508
+[INFO]	asctime:2019-10-20 00:05:28,230	module:views	message:{'���̑�': [], '�@�B�w�K': []}	process:13944	thread:10420
+[INFO]	asctime:2019-10-20 00:05:34,209	module:views	message:{'���̑�': [], '�@�B�w�K': []}	process:13944	thread:20348
+[INFO]	asctime:2019-10-20 00:07:46,590	module:views	message:{'���̑�': [], '�@�B�w�K': []}	process:13944	thread:19440
+[INFO]	asctime:2019-10-20 00:10:37,450	module:views	message:{'���̑�': [], '�@�B�w�K': []}	process:13944	thread:19472
+[INFO]	asctime:2019-10-20 00:13:54,800	module:views	message:{'���̑�': [], '�@�B�w�K': []}	process:13944	thread:2840
+[INFO]	asctime:2019-10-20 00:16:04,232	module:views	message:{'���̑�': ['numpy'], '�@�B�w�K': []}	process:16692	thread:7448
+[INFO]	asctime:2019-10-20 00:16:04,233	module:views	message:pip install -U numpy	process:16692	thread:7448
+[INFO]	asctime:2019-10-20 00:20:02,957	module:views	message:{'���̑�': ['numpy'], '�@�B�w�K': []}	process:1756	thread:18892
+[INFO]	asctime:2019-10-20 00:20:02,958	module:views	message:pip install -U numpy	process:1756	thread:18892
+[INFO]	asctime:2019-10-20 00:21:49,222	module:views	message:{'���̑�': ['numpy'], '�@�B�w�K': []}	process:9444	thread:19992
+[INFO]	asctime:2019-10-20 00:21:49,223	module:views	message:pip install -U numpy	process:9444	thread:19992
+[INFO]	asctime:2019-10-20 00:23:33,596	module:views	message:{'���̑�': ['numpy'], '�@�B�w�K': []}	process:8040	thread:17512
+[INFO]	asctime:2019-10-20 00:23:33,597	module:views	message:pip install -U numpy	process:8040	thread:17512
+[INFO]	asctime:2019-10-20 00:30:21,702	module:views	message:{'���̑�': ['numpy'], '�@�B�w�K': []}	process:22012	thread:7276
+[INFO]	asctime:2019-10-20 00:30:21,707	module:views	message:pip install numpy	process:22012	thread:7276
+[INFO]	asctime:2019-10-20 00:31:41,933	module:views	message:{'���̑�': ['numpy'], '�@�B�w�K': []}	process:22204	thread:18372
+[INFO]	asctime:2019-10-20 00:31:41,948	module:views	message:pip install -U numpy	process:22204	thread:18372
+[INFO]	asctime:2019-10-20 00:34:32,965	module:views	message:{'���̑�': ['numpy'], '�@�B�w�K': []}	process:24060	thread:23656
+[INFO]	asctime:2019-10-20 00:34:32,997	module:views	message:pip install -U numpy	process:24060	thread:23656
+[INFO]	asctime:2019-10-20 00:39:08,469	module:views	message:{'���̑�': ['numpy'], '�@�B�w�K': []}	process:25208	thread:9788
+[INFO]	asctime:2019-10-20 00:39:08,470	module:views	message:pip install -U numpy	process:25208	thread:9788
+[INFO]	asctime:2019-10-20 01:14:33,542	module:views	message:{'���̑�': [], '�@�B�w�K': []}	process:34608	thread:32624
+[INFO]	asctime:2019-10-19 19:04:34,927	module:views	message:{'チェック': ['keras'], 'その他': ['numpy'], '機械学習': [], '動的選択肢１': []}	process:19223	thread:123145339260928
+[INFO]	asctime:2019-10-19 19:04:34,927	module:views	message:pip install -U keras	process:19223	thread:123145339260928
+[INFO]	asctime:2019-10-19 19:04:34,927	module:views	message:pip install -U numpy	process:19223	thread:123145339260928
+[INFO]	asctime:2019-10-19 19:04:57,861	module:views	message:{'チェック': ['keras'], 'その他': ['numpy', 'opencv-python'], '機械学習': [], '動的選択肢１': []}	process:19223	thread:123145334005760
+[INFO]	asctime:2019-10-19 19:04:57,861	module:views	message:pip install -U keras	process:19223	thread:123145334005760
+[INFO]	asctime:2019-10-19 19:04:57,861	module:views	message:pip install -U numpy	process:19223	thread:123145334005760
+[INFO]	asctime:2019-10-19 19:09:25,646	module:views	message:{'チェック': ['keras'], 'その他': ['numpy', 'opencv-python'], '機械学習': [], '動的選択肢１': []}	process:19746	thread:123145415585792
+[INFO]	asctime:2019-10-19 19:09:25,646	module:views	message:pip install -U keras	process:19746	thread:123145415585792
+[INFO]	asctime:2019-10-19 19:09:25,646	module:views	message:pip install -U numpy	process:19746	thread:123145415585792
+[INFO]	asctime:2019-10-19 22:50:19,633	module:views	message:('前のフォルダ', '/Users/amontom/django/JPHacks2019-Edit_Demo3')	process:34717	thread:123145557155840
+[INFO]	asctime:2019-10-19 22:50:19,633	module:views	message:('VMforBeginnerApp', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp')	process:34717	thread:123145557155840
+[INFO]	asctime:2019-10-19 22:50:19,634	module:views	message:('as', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as')	process:34717	thread:123145557155840
+[INFO]	asctime:2019-10-19 22:50:19,634	module:views	message:('VMforBeginner', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner')	process:34717	thread:123145557155840
+[INFO]	asctime:2019-10-19 23:03:13,468	module:views	message:('前のフォルダ', '/Users/amontom/django/JPHacks2019-Edit_Demo3')	process:1086	thread:123145448853504
+[INFO]	asctime:2019-10-19 23:03:13,468	module:views	message:('VMforBeginnerApp', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp')	process:1086	thread:123145448853504
+[INFO]	asctime:2019-10-19 23:03:13,468	module:views	message:('as', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as')	process:1086	thread:123145448853504
+[INFO]	asctime:2019-10-19 23:03:13,468	module:views	message:('VMforBeginner', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner')	process:1086	thread:123145448853504
+[INFO]	asctime:2019-10-19 23:03:24,659	module:views	message:('前のフォルダ', '/Users/amontom/django/JPHacks2019-Edit_Demo3')	process:1158	thread:123145406885888
+[INFO]	asctime:2019-10-19 23:03:24,659	module:views	message:('VMforBeginnerApp', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp')	process:1158	thread:123145406885888
+[INFO]	asctime:2019-10-19 23:03:24,659	module:views	message:('as', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as')	process:1158	thread:123145406885888
+[INFO]	asctime:2019-10-19 23:03:24,659	module:views	message:('VMforBeginner', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner')	process:1158	thread:123145406885888
+[INFO]	asctime:2019-10-19 23:05:50,593	module:views	message:{'files': [('README.md', '/Users/amontom/django/JPHacks2019-Edit_Demo3/README.md')], 'dirs': [('前のフォルダ', '/Users/amontom/django'), ('VMforBeginner', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner')], 'venv': None}	process:1353	thread:123145534263296
+[INFO]	asctime:2019-10-19 23:05:50,594	module:views	message:{'files': [('models.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/models.py'), ('apps.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/apps.py'), ('forms.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/forms.py'), ('admin.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/admin.py'), ('utils.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/utils.py'), ('tests.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/tests.py'), ('urls.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/urls.py'), ('views.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/views.py')], 'dirs': [('前のフォルダ', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner'), ('templatetags', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/templatetags'), ('migrations', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/migrations'), ('__pycache__', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/__pycache__'), ('static', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/static'), ('templates', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/templates')], 'venv': None}	process:1353	thread:123145534263296
+[INFO]	asctime:2019-10-19 23:05:50,594	module:views	message:{'files': [('requirement.txt', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as/requirement.txt')], 'dirs': [('前のフォルダ', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner'), ('bin', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as/bin'), ('include', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as/include'), ('lib', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as/lib')], 'venv': None}	process:1353	thread:123145534263296
+[INFO]	asctime:2019-10-19 23:05:50,594	module:views	message:{'files': [('settings.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner/settings.py'), ('urls.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner/urls.py'), ('wsgi.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner/wsgi.py')], 'dirs': [('前のフォルダ', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner'), ('__pycache__', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner/__pycache__')], 'venv': None}	process:1353	thread:123145534263296
+[INFO]	asctime:2019-10-19 23:07:29,193	module:views	message:{'files': [('README.md', '/Users/amontom/django/JPHacks2019-Edit_Demo3/README.md')], 'dirs': [('前のフォルダ', '/Users/amontom/django'), ('VMforBeginner', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner')], 'venv': None}	process:1504	thread:123145554743296
+[INFO]	asctime:2019-10-19 23:07:29,194	module:views	message:{'files': [('models.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/models.py'), ('apps.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/apps.py'), ('forms.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/forms.py'), ('admin.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/admin.py'), ('utils.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/utils.py'), ('tests.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/tests.py'), ('urls.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/urls.py'), ('views.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/views.py')], 'dirs': [('前のフォルダ', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner'), ('templatetags', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/templatetags'), ('migrations', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/migrations'), ('__pycache__', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/__pycache__'), ('static', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/static'), ('templates', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/templates')], 'venv': None}	process:1504	thread:123145554743296
+[INFO]	asctime:2019-10-19 23:07:29,194	module:views	message:{'files': [('requirement.txt', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as/requirement.txt')], 'dirs': [('前のフォルダ', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner'), ('bin', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as/bin'), ('include', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as/include'), ('lib', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as/lib')], 'venv': None}	process:1504	thread:123145554743296
+[INFO]	asctime:2019-10-19 23:07:29,194	module:views	message:{'files': [('settings.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner/settings.py'), ('urls.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner/urls.py'), ('wsgi.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner/wsgi.py')], 'dirs': [('前のフォルダ', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner'), ('__pycache__', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner/__pycache__')], 'venv': None}	process:1504	thread:123145554743296
+[INFO]	asctime:2019-10-19 23:07:31,147	module:views	message:{'files': [('README.md', '/Users/amontom/django/JPHacks2019-Edit_Demo3/README.md')], 'dirs': [('前のフォルダ', '/Users/amontom/django'), ('VMforBeginner', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner')], 'venv': None}	process:1504	thread:123145554743296
+[INFO]	asctime:2019-10-19 23:07:31,147	module:views	message:{'files': [('models.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/models.py'), ('apps.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/apps.py'), ('forms.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/forms.py'), ('admin.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/admin.py'), ('utils.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/utils.py'), ('tests.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/tests.py'), ('urls.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/urls.py'), ('views.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/views.py')], 'dirs': [('前のフォルダ', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner'), ('templatetags', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/templatetags'), ('migrations', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/migrations'), ('__pycache__', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/__pycache__'), ('static', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/static'), ('templates', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/templates')], 'venv': None}	process:1504	thread:123145554743296
+[INFO]	asctime:2019-10-19 23:07:31,148	module:views	message:{'files': [('requirement.txt', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as/requirement.txt')], 'dirs': [('前のフォルダ', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner'), ('bin', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as/bin'), ('include', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as/include'), ('lib', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as/lib')], 'venv': None}	process:1504	thread:123145554743296
+[INFO]	asctime:2019-10-19 23:07:31,149	module:views	message:{'files': [('settings.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner/settings.py'), ('urls.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner/urls.py'), ('wsgi.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner/wsgi.py')], 'dirs': [('前のフォルダ', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner'), ('__pycache__', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner/__pycache__')], 'venv': None}	process:1504	thread:123145554743296
+[INFO]	asctime:2019-10-19 23:08:32,974	module:views	message:{'files': [('README.md', '/Users/amontom/django/JPHacks2019-Edit_Demo3/README.md')], 'dirs': [('前のフォルダ', '/Users/amontom/django'), ('VMforBeginner', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner')], 'venv': None}	process:1575	thread:123145413222400
+[INFO]	asctime:2019-10-19 23:08:32,975	module:views	message:{'files': [('models.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/models.py'), ('apps.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/apps.py'), ('forms.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/forms.py'), ('admin.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/admin.py'), ('utils.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/utils.py'), ('tests.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/tests.py'), ('urls.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/urls.py'), ('views.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/views.py')], 'dirs': [('前のフォルダ', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner'), ('templatetags', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/templatetags'), ('migrations', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/migrations'), ('__pycache__', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/__pycache__'), ('static', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/static'), ('templates', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/templates')], 'venv': None}	process:1575	thread:123145413222400
+[INFO]	asctime:2019-10-19 23:08:32,975	module:views	message:{'files': [('requirement.txt', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as/requirement.txt')], 'dirs': [('前のフォルダ', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner'), ('bin', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as/bin'), ('include', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as/include'), ('lib', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as/lib')], 'venv': None}	process:1575	thread:123145413222400
+[INFO]	asctime:2019-10-19 23:08:32,976	module:views	message:{'files': [('settings.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner/settings.py'), ('urls.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner/urls.py'), ('wsgi.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner/wsgi.py')], 'dirs': [('前のフォルダ', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner'), ('__pycache__', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner/__pycache__')], 'venv': None}	process:1575	thread:123145413222400
+[INFO]	asctime:2019-10-19 23:12:17,507	module:views	message:{'files': [('README.md', '/Users/amontom/django/JPHacks2019-Edit_Demo3/README.md')], 'dirs': [('前のフォルダ', '/Users/amontom/django'), ('VMforBeginner', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner')], 'venv': None}	process:1775	thread:123145459748864
+[INFO]	asctime:2019-10-19 23:12:17,509	module:views	message:{'files': [('models.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/models.py'), ('apps.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/apps.py'), ('forms.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/forms.py'), ('admin.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/admin.py'), ('utils.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/utils.py'), ('tests.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/tests.py'), ('urls.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/urls.py'), ('views.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/views.py')], 'dirs': [('前のフォルダ', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner'), ('templatetags', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/templatetags'), ('migrations', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/migrations'), ('__pycache__', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/__pycache__'), ('static', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/static'), ('templates', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/templates')], 'venv': None}	process:1775	thread:123145459748864
+[INFO]	asctime:2019-10-19 23:12:17,509	module:views	message:{'files': [('requirement.txt', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as/requirement.txt')], 'dirs': [('前のフォルダ', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner'), ('bin', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as/bin'), ('include', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as/include'), ('lib', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as/lib')], 'venv': None}	process:1775	thread:123145459748864
+[INFO]	asctime:2019-10-19 23:12:17,510	module:views	message:{'files': [('settings.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner/settings.py'), ('urls.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner/urls.py'), ('wsgi.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner/wsgi.py')], 'dirs': [('前のフォルダ', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner'), ('__pycache__', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner/__pycache__')], 'venv': None}	process:1775	thread:123145459748864
+[INFO]	asctime:2019-10-19 23:14:28,389	module:views	message:{'files': [('README.md', '/Users/amontom/django/JPHacks2019-Edit_Demo3/README.md')], 'dirs': [('前のフォルダ', '/Users/amontom/django'), ('VMforBeginner', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner')], 'venv': None}	process:1981	thread:123145318346752
+[INFO]	asctime:2019-10-19 23:14:28,389	module:views	message:{'files': [('models.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/models.py'), ('apps.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/apps.py'), ('forms.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/forms.py'), ('admin.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/admin.py'), ('utils.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/utils.py'), ('tests.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/tests.py'), ('urls.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/urls.py'), ('views.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/views.py')], 'dirs': [('前のフォルダ', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner'), ('templatetags', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/templatetags'), ('migrations', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/migrations'), ('__pycache__', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/__pycache__'), ('static', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/static'), ('templates', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginnerApp/templates')], 'venv': None}	process:1981	thread:123145318346752
+[INFO]	asctime:2019-10-19 23:14:28,390	module:views	message:{'files': [('requirement.txt', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as/requirement.txt')], 'dirs': [('前のフォルダ', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner'), ('bin', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as/bin'), ('include', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as/include'), ('lib', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as/lib')], 'venv': None}	process:1981	thread:123145318346752
+[INFO]	asctime:2019-10-19 23:14:28,390	module:views	message:{'files': [('settings.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner/settings.py'), ('urls.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner/urls.py'), ('wsgi.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner/wsgi.py')], 'dirs': [('前のフォルダ', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner'), ('__pycache__', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/VMforBeginner/__pycache__')], 'venv': None}	process:1981	thread:123145318346752
+[INFO]	asctime:2019-10-19 23:27:55,331	module:views	message:('django.log', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/django.log')	process:2869	thread:123145568342016
+[INFO]	asctime:2019-10-19 23:27:55,331	module:views	message:('db.sqlite3', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/db.sqlite3')	process:2869	thread:123145568342016
+[INFO]	asctime:2019-10-19 23:27:55,331	module:views	message:('manage.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/manage.py')	process:2869	thread:123145568342016
+[INFO]	asctime:2019-10-19 23:27:56,152	module:views	message:('django.log', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/django.log')	process:2869	thread:123145568342016
+[INFO]	asctime:2019-10-19 23:27:56,152	module:views	message:('db.sqlite3', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/db.sqlite3')	process:2869	thread:123145568342016
+[INFO]	asctime:2019-10-19 23:27:56,152	module:views	message:('manage.py', '/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/manage.py')	process:2869	thread:123145568342016
+[INFO]	asctime:2019-10-20 00:19:54,413	module:views	message:nan	process:2968	thread:123145451999232
+[INFO]	asctime:2019-10-20 00:22:56,361	module:views	message:nan	process:3179	thread:123145364836352
+[INFO]	asctime:2019-10-20 00:22:57,197	module:views	message:nan	process:3179	thread:123145364836352
+[INFO]	asctime:2019-10-20 00:23:35,321	module:views	message:nan	process:3186	thread:123145338019840
+[INFO]	asctime:2019-10-20 00:23:35,976	module:views	message:nan	process:3186	thread:123145338019840
+[INFO]	asctime:2019-10-20 00:23:51,636	module:views	message:nan	process:3252	thread:123145508036608
+[INFO]	asctime:2019-10-20 00:23:52,179	module:views	message:nan	process:3252	thread:123145508036608
+[INFO]	asctime:2019-10-20 00:24:21,050	module:views	message:/Users/amontom/django/JPHacks2019-Edit_Demo3/VMforBeginner/as/requirements.txt	process:3257	thread:123145382899712
+[INFO]	asctime:2019-10-20 00:24:21,050	module:views	message:nan	process:3257	thread:123145382899712
+[INFO]	asctime:2019-10-20 00:24:41,133	module:views	message:False	process:3326	thread:123145445117952
+[INFO]	asctime:2019-10-20 00:24:41,134	module:views	message:nan	process:3326	thread:123145445117952
+[INFO]	asctime:2019-10-20 00:24:41,852	module:views	message:False	process:3326	thread:123145445117952
+[INFO]	asctime:2019-10-20 00:24:41,852	module:views	message:nan	process:3326	thread:123145445117952
+[INFO]	asctime:2019-10-20 00:26:05,456	module:views	message:Django==2.2.6
+pytz==2019.3
+sqlparse==0.3.0
+	process:3407	thread:123145547239424
+[INFO]	asctime:2019-10-20 00:30:58,139	module:views	message:False	process:3407	thread:123145547239424
+[INFO]	asctime:2019-10-20 00:30:58,139	module:views	message:nan	process:3407	thread:123145547239424
+[INFO]	asctime:2019-10-20 00:30:59,653	module:views	message:False	process:3407	thread:123145557749760
+[INFO]	asctime:2019-10-20 00:30:59,653	module:views	message:nan	process:3407	thread:123145557749760
+[INFO]	asctime:2019-10-20 00:33:12,748	module:views	message:False	process:3702	thread:123145500835840
+[INFO]	asctime:2019-10-20 00:33:12,748	module:views	message:nan	process:3702	thread:123145500835840
+[INFO]	asctime:2019-10-20 00:33:13,659	module:views	message:False	process:3702	thread:123145500835840
+[INFO]	asctime:2019-10-20 00:33:13,659	module:views	message:nan	process:3702	thread:123145500835840
+[INFO]	asctime:2019-10-20 00:34:19,049	module:views	message:False	process:3702	thread:123145500835840
+[INFO]	asctime:2019-10-20 00:34:19,049	module:views	message:nan	process:3702	thread:123145500835840
+[INFO]	asctime:2019-10-20 00:34:19,662	module:views	message:False	process:3702	thread:123145500835840
+[INFO]	asctime:2019-10-20 00:34:19,662	module:views	message:nan	process:3702	thread:123145500835840
+[INFO]	asctime:2019-10-20 00:37:18,232	module:views	message:False	process:3702	thread:123145500835840
+[INFO]	asctime:2019-10-20 00:37:18,232	module:views	message:nan	process:3702	thread:123145500835840
+[INFO]	asctime:2019-10-20 00:37:19,517	module:views	message:False	process:3702	thread:123145500835840
+[INFO]	asctime:2019-10-20 00:37:19,517	module:views	message:nan	process:3702	thread:123145500835840
+[INFO]	asctime:2019-10-20 00:37:57,589	module:views	message:False	process:3702	thread:123145500835840
+[INFO]	asctime:2019-10-20 00:37:57,589	module:views	message:nan	process:3702	thread:123145500835840
+[INFO]	asctime:2019-10-20 00:37:58,364	module:views	message:False	process:3702	thread:123145500835840
+[INFO]	asctime:2019-10-20 00:37:58,365	module:views	message:nan	process:3702	thread:123145500835840
+[INFO]	asctime:2019-10-20 00:38:19,885	module:views	message:False	process:3702	thread:123145500835840
+[INFO]	asctime:2019-10-20 00:38:19,885	module:views	message:nan	process:3702	thread:123145500835840
+[INFO]	asctime:2019-10-20 00:38:20,701	module:views	message:False	process:3702	thread:123145500835840
+[INFO]	asctime:2019-10-20 00:38:20,702	module:views	message:nan	process:3702	thread:123145500835840
+[INFO]	asctime:2019-10-20 00:39:16,312	module:views	message:False	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 00:39:16,312	module:views	message:nan	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 00:40:14,459	module:views	message:False	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 00:40:14,459	module:views	message:nan	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 00:40:28,821	module:views	message:False	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 00:40:28,822	module:views	message:nan	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 00:40:29,707	module:views	message:False	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 00:40:29,707	module:views	message:nan	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 00:40:54,165	module:views	message:False	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 00:40:54,165	module:views	message:nan	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 00:48:58,078	module:views	message:Django==2.2.6
+pytz==2019.3
+sqlparse==0.3.0
+	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 00:49:06,283	module:views	message:Django==2.2.6
+pytz==2019.3
+sqlparse==0.3.0
+	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 00:52:33,465	module:views	message:False	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 00:52:33,466	module:views	message:nan	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 00:55:19,912	module:views	message:False	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 00:55:19,914	module:views	message:nan	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 00:55:20,927	module:views	message:False	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 00:55:20,928	module:views	message:nan	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 00:55:26,286	module:views	message:Django==2.2.6
+pytz==2019.3
+sqlparse==0.3.0
+	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 00:55:44,694	module:views	message:Django==2.2.6
+pytz==2019.3
+sqlparse==0.3.0
+	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 00:56:20,454	module:views	message:False	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 00:56:20,454	module:views	message:nan	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 00:56:38,134	module:views	message:Django==2.2.6
+pytz==2019.3
+sqlparse==0.3.0
+	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 00:57:16,789	module:views	message:Django==2.2.6
+pytz==2019.3
+sqlparse==0.3.0
+	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 00:57:28,409	module:views	message:Django==2.2.6
+pytz==2019.3
+sqlparse==0.3.0
+	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 00:57:32,646	module:views	message:Django==2.2.6
+pytz==2019.3
+sqlparse==0.3.0
+	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 00:59:03,373	module:views	message:Django==2.2.6
+pytz==2019.3
+sqlparse==0.3.0
+	process:4243	thread:123145576112128
+[INFO]	asctime:2019-10-20 01:11:47,574	module:views	message:False	process:6546	thread:123145337987072
+[INFO]	asctime:2019-10-20 01:11:47,574	module:views	message:nan	process:6546	thread:123145337987072
+[INFO]	asctime:2019-10-20 01:16:56,061	module:views	message:False	process:6546	thread:123145332731904
+[INFO]	asctime:2019-10-20 01:16:56,062	module:views	message:nan	process:6546	thread:123145332731904
+[INFO]	asctime:2019-10-20 01:16:57,588	module:views	message:False	process:6546	thread:123145332731904
+[INFO]	asctime:2019-10-20 01:16:57,588	module:views	message:nan	process:6546	thread:123145332731904
+[INFO]	asctime:2019-10-20 01:17:01,482	module:views	message:Django==2.2.6
+pytz==2019.3
+sqlparse==0.3.0
+	process:6546	thread:123145332731904
+[INFO]	asctime:2019-10-20 01:20:07,543	module:views	message:False	process:6546	thread:123145337987072
+[INFO]	asctime:2019-10-20 01:20:07,543	module:views	message:nan	process:6546	thread:123145337987072
+[INFO]	asctime:2019-10-20 01:20:27,062	module:views	message:False	process:6546	thread:123145337987072
+[INFO]	asctime:2019-10-20 01:20:27,062	module:views	message:nan	process:6546	thread:123145337987072
+[INFO]	asctime:2019-10-20 01:20:38,460	module:views	message:Django==2.2.6
+pytz==2019.3
+sqlparse==0.3.0
+	process:6546	thread:123145337987072
+[INFO]	asctime:2019-10-20 05:12:57,103	module:views	message:False	process:24102	thread:123145470365696
+[INFO]	asctime:2019-10-20 05:12:57,104	module:views	message:nan	process:24102	thread:123145470365696
+[INFO]	asctime:2019-10-20 05:13:33,123	module:views	message:False	process:24102	thread:123145470365696
+[INFO]	asctime:2019-10-20 05:13:33,123	module:views	message:nan	process:24102	thread:123145470365696
+[INFO]	asctime:2019-10-20 05:14:17,109	module:views	message:False	process:24102	thread:123145470365696
+[INFO]	asctime:2019-10-20 05:14:17,109	module:views	message:nan	process:24102	thread:123145470365696
+[INFO]	asctime:2019-10-20 05:15:54,734	module:views	message:False	process:24102	thread:123145470365696
+[INFO]	asctime:2019-10-20 05:15:54,736	module:views	message:nan	process:24102	thread:123145470365696
+[INFO]	asctime:2019-10-20 05:16:19,898	module:views	message:{'チェック': [], 'その他': ['matplotlib'], '機械学習': [], '動的選択肢１': []}	process:24102	thread:123145470365696
+[INFO]	asctime:2019-10-20 05:16:19,898	module:views	message:pip install -U matplotlib	process:24102	thread:123145470365696
+[INFO]	asctime:2019-10-20 05:20:03,314	module:views	message:{'チェック': [], 'その他': [], '機械学習': ['numpy'], '動的選択肢１': []}	process:24786	thread:123145415323648
+[INFO]	asctime:2019-10-20 05:30:52,668	module:views	message:False	process:25501	thread:123145350135808
+[INFO]	asctime:2019-10-20 05:30:52,668	module:views	message:nan	process:25501	thread:123145350135808
+[INFO]	asctime:2019-10-20 05:30:56,650	module:views	message:False	process:25501	thread:123145350135808
+[INFO]	asctime:2019-10-20 05:30:56,650	module:views	message:nan	process:25501	thread:123145350135808
+[INFO]	asctime:2019-10-20 05:34:08,222	module:views	message:False	process:25975	thread:123145573511168
+[INFO]	asctime:2019-10-20 05:34:08,222	module:views	message:nan	process:25975	thread:123145573511168
+[INFO]	asctime:2019-10-20 05:34:12,049	module:views	message:False	process:25975	thread:123145573511168
+[INFO]	asctime:2019-10-20 05:34:12,049	module:views	message:nan	process:25975	thread:123145573511168
+[INFO]	asctime:2019-10-20 05:34:13,424	module:views	message:False	process:25975	thread:123145573511168
+[INFO]	asctime:2019-10-20 05:34:13,425	module:views	message:nan	process:25975	thread:123145573511168
+[INFO]	asctime:2019-10-20 05:36:05,257	module:views	message:{'チェック': [], 'その他': ['matplotlib'], '機械学習': ['numpy'], '動的選択肢１': []}	process:26001	thread:123145329594368
+[INFO]	asctime:2019-10-20 05:37:31,804	module:views	message:False	process:26224	thread:123145316847616
+[INFO]	asctime:2019-10-20 05:37:31,804	module:views	message:nan	process:26224	thread:123145316847616
+[INFO]	asctime:2019-10-20 05:37:33,499	module:views	message:False	process:26224	thread:123145316847616
+[INFO]	asctime:2019-10-20 05:37:33,499	module:views	message:nan	process:26224	thread:123145316847616
+[INFO]	asctime:2019-10-20 05:44:46,765	module:views	message:{'チェック': [], 'その他': ['matplotlib'], '機械学習': ['numpy'], '動的選択肢１': []}	process:26746	thread:123145433399296
+[INFO]	asctime:2019-10-20 05:52:40,581	module:views	message:virtualenv /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/env	process:27464	thread:123145563848704
+[INFO]	asctime:2019-10-20 05:53:34,669	module:views	message:virtualenv /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/asdfasdf	process:27464	thread:123145569103872
+[INFO]	asctime:2019-10-20 05:59:32,853	module:views	message:False	process:27464	thread:123145569103872
+[INFO]	asctime:2019-10-20 05:59:32,853	module:views	message:nan	process:27464	thread:123145569103872
+[INFO]	asctime:2019-10-20 05:59:34,536	module:views	message:cycler==0.10.0
+Django==2.2.6
+kiwisolver==1.1.0
+matplotlib==3.1.1
+numpy==1.17.3
+pyparsing==2.4.2
+python-dateutil==2.8.0
+pytz==2019.3
+six==1.12.0
+sqlparse==0.3.0
+	process:27464	thread:123145569103872
+[INFO]	asctime:2019-10-20 05:59:54,941	module:views	message:virtualenv /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/asdfasdf	process:27464	thread:123145569103872
+[INFO]	asctime:2019-10-20 06:06:17,618	module:views	message:virtualenv /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/asdfasdf	process:27464	thread:123145563848704
+[INFO]	asctime:2019-10-20 06:14:47,243	module:views	message:{'チェック': ['tensorflow'], 'その他': [], '機械学習': ['pandas'], '動的選択肢１': []}	process:29086	thread:123145359396864
+[INFO]	asctime:2019-10-20 06:27:20,061	module:views	message:False	process:29517	thread:123145410048000
+[INFO]	asctime:2019-10-20 06:27:20,061	module:views	message:nan	process:29517	thread:123145410048000
+[INFO]	asctime:2019-10-20 06:27:21,385	module:views	message:cycler==0.10.0
+Django==2.2.6
+kiwisolver==1.1.0
+matplotlib==3.1.1
+numpy==1.17.3
+pyparsing==2.4.2
+python-dateutil==2.8.0
+pytz==2019.3
+six==1.12.0
+sqlparse==0.3.0
+	process:29517	thread:123145410048000
+[INFO]	asctime:2019-10-20 06:27:23,310	module:views	message:False	process:29517	thread:123145415303168
+[INFO]	asctime:2019-10-20 06:27:23,310	module:views	message:nan	process:29517	thread:123145415303168
+[INFO]	asctime:2019-10-20 06:28:50,281	module:views	message:False	process:29517	thread:123145410048000
+[INFO]	asctime:2019-10-20 06:28:50,281	module:views	message:nan	process:29517	thread:123145410048000
+[INFO]	asctime:2019-10-20 06:28:55,604	module:views	message:Django==2.2.6
+pytz==2019.3
+sqlparse==0.3.0
+	process:29517	thread:123145410048000
+[INFO]	asctime:2019-10-20 07:02:52,099	module:views	message:False	process:30223	thread:123145340813312
+[INFO]	asctime:2019-10-20 07:02:52,099	module:views	message:nan	process:30223	thread:123145340813312
+[INFO]	asctime:2019-10-20 07:03:04,618	module:views	message:cycler==0.10.0
+Django==2.2.6
+kiwisolver==1.1.0
+matplotlib==3.1.1
+numpy==1.17.3
+pyparsing==2.4.2
+python-dateutil==2.8.0
+pytz==2019.3
+six==1.12.0
+sqlparse==0.3.0
+	process:30223	thread:123145340813312
+[INFO]	asctime:2019-10-21 05:48:35,588	module:views	message:source tomomi/bin/activate	process:2293	thread:123145575727104
+[INFO]	asctime:2019-10-21 05:49:38,419	module:views	message:source tomomi2/bin/activate	process:2377	thread:123145408147456
+[INFO]	asctime:2019-10-21 05:49:51,066	module:views	message:{'チェック': [], 'その他': [], '機械学習': ['numpy'], '動的選択肢１': []}	process:2377	thread:123145408147456
+[INFO]	asctime:2019-10-21 05:52:44,794	module:views	message:source /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi/bin/activate	process:2600	thread:123145387315200
+[INFO]	asctime:2019-10-21 05:55:32,756	module:views	message:source /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi2/bin/activate	process:2814	thread:123145562865664
+[INFO]	asctime:2019-10-21 05:55:38,048	module:views	message:{'チェック': [], 'その他': [], '機械学習': ['numpy'], '動的選択肢１': []}	process:2814	thread:123145562865664
+[INFO]	asctime:2019-10-21 06:40:03,867	module:views	message:source /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi3/bin/activate	process:5787	thread:123145509900288
+[INFO]	asctime:2019-10-21 06:40:33,705	module:views	message:source /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi4/bin/activate	process:5815	thread:123145447481344
+[INFO]	asctime:2019-10-21 06:40:40,022	module:views	message:{'チェック': [], 'その他': [], '機械学習': ['numpy'], '動的選択肢１': []}	process:5815	thread:123145447481344
+[INFO]	asctime:2019-10-21 06:42:50,429	module:views	message:source /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi5/bin/activate	process:6030	thread:123145538859008
+[INFO]	asctime:2019-10-21 06:42:55,723	module:views	message:{'チェック': [], 'その他': ['matplotlib'], '機械学習': [], '動的選択肢１': []}	process:6030	thread:123145538859008
+[INFO]	asctime:2019-10-21 06:53:29,015	module:views	message:source /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/goose_nomasensei/bin/activate	process:6653	thread:123145325453312
+[INFO]	asctime:2019-10-21 06:53:57,121	module:views	message:{'チェック': [], 'その他': ['matplotlib'], '機械学習': ['numpy'], '動的選択肢１': []}	process:6653	thread:123145325453312
+[INFO]	asctime:2019-10-21 06:55:54,929	module:views	message:False	process:6653	thread:123145330708480
+[INFO]	asctime:2019-10-21 06:55:54,929	module:views	message:nan	process:6653	thread:123145330708480
+[INFO]	asctime:2019-10-21 06:55:58,058	module:views	message:False	process:6653	thread:123145330708480
+[INFO]	asctime:2019-10-21 06:55:58,059	module:views	message:nan	process:6653	thread:123145330708480
+[INFO]	asctime:2019-10-21 07:01:54,563	module:views	message:source /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/kanehirotapi/bin/activate	process:7272	thread:123145347780608
+[INFO]	asctime:2019-10-21 07:02:45,672	module:views	message:{'チェック': [], 'その他': ['matplotlib'], '機械学習': [], '動的選択肢１': []}	process:7272	thread:123145347780608
+[INFO]	asctime:2019-10-21 07:04:48,756	module:views	message:False	process:7563	thread:123145321668608
+[INFO]	asctime:2019-10-21 07:04:48,756	module:views	message:nan	process:7563	thread:123145321668608
+[INFO]	asctime:2019-10-21 07:04:52,019	module:views	message:a==1.0
+appnope==0.1.0
+astroid==2.3.1
+attrs==19.3.0
+backcall==0.1.0
+bleach==3.1.0
+certifi==2019.9.11
+cmdpr==0.1
+cycler==0.10.0
+decorator==4.4.0
+defusedxml==0.6.0
+Django==2.2.5
+entrypoints==0.3
+importlib-metadata==0.23
+ipykernel==5.1.2
+ipython==7.8.0
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+isort==4.3.21
+jedi==0.15.1
+Jinja2==2.10.3
+jsonschema==3.1.1
+jupyter==1.0.0
+jupyter-client==5.3.4
+jupyter-console==6.0.0
+jupyter-core==4.6.0
+kiwisolver==1.1.0
+lazy-object-proxy==1.4.2
+MarkupSafe==1.1.1
+matplotlib==3.1.1
+mccabe==0.6.1
+mistune==0.8.4
+more-itertools==7.2.0
+nbconvert==5.6.0
+nbformat==4.4.0
+notebook==6.0.1
+numpy==1.17.3
+pandocfilters==1.4.2
+parso==0.5.1
+pexpect==4.7.0
+pickleshare==0.7.5
+prometheus-client==0.7.1
+prompt-toolkit==2.0.10
+ptyprocess==0.6.0
+Pygments==2.4.2
+pylint==2.4.2
+pyparsing==2.4.2
+pyrsistent==0.15.4
+python-dateutil==2.8.0
+pytz==2019.3
+pyzmq==18.1.0
+qtconsole==4.5.5
+Send2Trash==1.5.0
+six==1.12.0
+sqlparse==0.3.0
+terminado==0.8.2
+testpath==0.4.2
+tornado==6.0.3
+traitlets==4.3.3
+typed-ast==1.4.0
+virtualenv==16.7.6
+wcwidth==0.1.7
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+wrapt==1.11.2
+zipp==0.6.0	process:7563	thread:123145321668608
+[INFO]	asctime:2019-10-21 07:05:09,639	module:views	message:False	process:7563	thread:123145321668608
+[INFO]	asctime:2019-10-21 07:05:09,639	module:views	message:nan	process:7563	thread:123145321668608
+[INFO]	asctime:2019-10-21 07:05:12,300	module:views	message:a==1.0
+appnope==0.1.0
+astroid==2.3.1
+attrs==19.3.0
+backcall==0.1.0
+bleach==3.1.0
+certifi==2019.9.11
+cmdpr==0.1
+cycler==0.10.0
+decorator==4.4.0
+defusedxml==0.6.0
+Django==2.2.5
+entrypoints==0.3
+importlib-metadata==0.23
+ipykernel==5.1.2
+ipython==7.8.0
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+isort==4.3.21
+jedi==0.15.1
+Jinja2==2.10.3
+jsonschema==3.1.1
+jupyter==1.0.0
+jupyter-client==5.3.4
+jupyter-console==6.0.0
+jupyter-core==4.6.0
+kiwisolver==1.1.0
+lazy-object-proxy==1.4.2
+MarkupSafe==1.1.1
+matplotlib==3.1.1
+mccabe==0.6.1
+mistune==0.8.4
+more-itertools==7.2.0
+nbconvert==5.6.0
+nbformat==4.4.0
+notebook==6.0.1
+numpy==1.17.3
+pandocfilters==1.4.2
+parso==0.5.1
+pexpect==4.7.0
+pickleshare==0.7.5
+prometheus-client==0.7.1
+prompt-toolkit==2.0.10
+ptyprocess==0.6.0
+Pygments==2.4.2
+pylint==2.4.2
+pyparsing==2.4.2
+pyrsistent==0.15.4
+python-dateutil==2.8.0
+pytz==2019.3
+pyzmq==18.1.0
+qtconsole==4.5.5
+Send2Trash==1.5.0
+six==1.12.0
+sqlparse==0.3.0
+terminado==0.8.2
+testpath==0.4.2
+tornado==6.0.3
+traitlets==4.3.3
+typed-ast==1.4.0
+virtualenv==16.7.6
+wcwidth==0.1.7
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+wrapt==1.11.2
+zipp==0.6.0	process:7563	thread:123145321668608
+[INFO]	asctime:2019-10-21 07:05:24,551	module:views	message:False	process:7563	thread:123145321668608
+[INFO]	asctime:2019-10-21 07:05:24,551	module:views	message:nan	process:7563	thread:123145321668608
+[INFO]	asctime:2019-10-21 07:05:27,470	module:views	message:a==1.0
+appnope==0.1.0
+astroid==2.3.1
+attrs==19.3.0
+backcall==0.1.0
+bleach==3.1.0
+certifi==2019.9.11
+cmdpr==0.1
+cycler==0.10.0
+decorator==4.4.0
+defusedxml==0.6.0
+Django==2.2.5
+entrypoints==0.3
+importlib-metadata==0.23
+ipykernel==5.1.2
+ipython==7.8.0
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+isort==4.3.21
+jedi==0.15.1
+Jinja2==2.10.3
+jsonschema==3.1.1
+jupyter==1.0.0
+jupyter-client==5.3.4
+jupyter-console==6.0.0
+jupyter-core==4.6.0
+kiwisolver==1.1.0
+lazy-object-proxy==1.4.2
+MarkupSafe==1.1.1
+matplotlib==3.1.1
+mccabe==0.6.1
+mistune==0.8.4
+more-itertools==7.2.0
+nbconvert==5.6.0
+nbformat==4.4.0
+notebook==6.0.1
+numpy==1.17.3
+pandocfilters==1.4.2
+parso==0.5.1
+pexpect==4.7.0
+pickleshare==0.7.5
+prometheus-client==0.7.1
+prompt-toolkit==2.0.10
+ptyprocess==0.6.0
+Pygments==2.4.2
+pylint==2.4.2
+pyparsing==2.4.2
+pyrsistent==0.15.4
+python-dateutil==2.8.0
+pytz==2019.3
+pyzmq==18.1.0
+qtconsole==4.5.5
+Send2Trash==1.5.0
+six==1.12.0
+sqlparse==0.3.0
+terminado==0.8.2
+testpath==0.4.2
+tornado==6.0.3
+traitlets==4.3.3
+typed-ast==1.4.0
+virtualenv==16.7.6
+wcwidth==0.1.7
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+wrapt==1.11.2
+zipp==0.6.0	process:7563	thread:123145321668608
+[INFO]	asctime:2019-10-21 07:05:58,986	module:views	message:False	process:7563	thread:123145321668608
+[INFO]	asctime:2019-10-21 07:05:58,986	module:views	message:nan	process:7563	thread:123145321668608
+[INFO]	asctime:2019-10-21 07:06:01,769	module:views	message:a==1.0
+appnope==0.1.0
+astroid==2.3.1
+attrs==19.3.0
+backcall==0.1.0
+bleach==3.1.0
+certifi==2019.9.11
+cmdpr==0.1
+cycler==0.10.0
+decorator==4.4.0
+defusedxml==0.6.0
+Django==2.2.5
+entrypoints==0.3
+importlib-metadata==0.23
+ipykernel==5.1.2
+ipython==7.8.0
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+isort==4.3.21
+jedi==0.15.1
+Jinja2==2.10.3
+jsonschema==3.1.1
+jupyter==1.0.0
+jupyter-client==5.3.4
+jupyter-console==6.0.0
+jupyter-core==4.6.0
+kiwisolver==1.1.0
+lazy-object-proxy==1.4.2
+MarkupSafe==1.1.1
+matplotlib==3.1.1
+mccabe==0.6.1
+mistune==0.8.4
+more-itertools==7.2.0
+nbconvert==5.6.0
+nbformat==4.4.0
+notebook==6.0.1
+numpy==1.17.3
+pandocfilters==1.4.2
+parso==0.5.1
+pexpect==4.7.0
+pickleshare==0.7.5
+prometheus-client==0.7.1
+prompt-toolkit==2.0.10
+ptyprocess==0.6.0
+Pygments==2.4.2
+pylint==2.4.2
+pyparsing==2.4.2
+pyrsistent==0.15.4
+python-dateutil==2.8.0
+pytz==2019.3
+pyzmq==18.1.0
+qtconsole==4.5.5
+Send2Trash==1.5.0
+six==1.12.0
+sqlparse==0.3.0
+terminado==0.8.2
+testpath==0.4.2
+tornado==6.0.3
+traitlets==4.3.3
+typed-ast==1.4.0
+virtualenv==16.7.6
+wcwidth==0.1.7
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+wrapt==1.11.2
+zipp==0.6.0	process:7563	thread:123145316413440
+[INFO]	asctime:2019-10-21 07:06:07,407	module:views	message:False	process:7563	thread:123145316413440
+[INFO]	asctime:2019-10-21 07:06:07,407	module:views	message:nan	process:7563	thread:123145316413440
+[INFO]	asctime:2019-10-21 07:06:09,275	module:views	message:a==1.0
+appnope==0.1.0
+astroid==2.3.1
+attrs==19.3.0
+backcall==0.1.0
+bleach==3.1.0
+certifi==2019.9.11
+cmdpr==0.1
+cycler==0.10.0
+decorator==4.4.0
+defusedxml==0.6.0
+Django==2.2.5
+entrypoints==0.3
+importlib-metadata==0.23
+ipykernel==5.1.2
+ipython==7.8.0
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+isort==4.3.21
+jedi==0.15.1
+Jinja2==2.10.3
+jsonschema==3.1.1
+jupyter==1.0.0
+jupyter-client==5.3.4
+jupyter-console==6.0.0
+jupyter-core==4.6.0
+kiwisolver==1.1.0
+lazy-object-proxy==1.4.2
+MarkupSafe==1.1.1
+matplotlib==3.1.1
+mccabe==0.6.1
+mistune==0.8.4
+more-itertools==7.2.0
+nbconvert==5.6.0
+nbformat==4.4.0
+notebook==6.0.1
+numpy==1.17.3
+pandocfilters==1.4.2
+parso==0.5.1
+pexpect==4.7.0
+pickleshare==0.7.5
+prometheus-client==0.7.1
+prompt-toolkit==2.0.10
+ptyprocess==0.6.0
+Pygments==2.4.2
+pylint==2.4.2
+pyparsing==2.4.2
+pyrsistent==0.15.4
+python-dateutil==2.8.0
+pytz==2019.3
+pyzmq==18.1.0
+qtconsole==4.5.5
+Send2Trash==1.5.0
+six==1.12.0
+sqlparse==0.3.0
+terminado==0.8.2
+testpath==0.4.2
+tornado==6.0.3
+traitlets==4.3.3
+typed-ast==1.4.0
+virtualenv==16.7.6
+wcwidth==0.1.7
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+wrapt==1.11.2
+zipp==0.6.0	process:7563	thread:123145321668608
+[INFO]	asctime:2019-10-21 07:06:18,166	module:views	message:False	process:7563	thread:123145321668608
+[INFO]	asctime:2019-10-21 07:06:18,166	module:views	message:nan	process:7563	thread:123145321668608
+[INFO]	asctime:2019-10-21 07:06:22,685	module:views	message:a==1.0
+appnope==0.1.0
+astroid==2.3.1
+attrs==19.3.0
+backcall==0.1.0
+bleach==3.1.0
+certifi==2019.9.11
+cmdpr==0.1
+cycler==0.10.0
+decorator==4.4.0
+defusedxml==0.6.0
+Django==2.2.5
+entrypoints==0.3
+importlib-metadata==0.23
+ipykernel==5.1.2
+ipython==7.8.0
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+isort==4.3.21
+jedi==0.15.1
+Jinja2==2.10.3
+jsonschema==3.1.1
+jupyter==1.0.0
+jupyter-client==5.3.4
+jupyter-console==6.0.0
+jupyter-core==4.6.0
+kiwisolver==1.1.0
+lazy-object-proxy==1.4.2
+MarkupSafe==1.1.1
+matplotlib==3.1.1
+mccabe==0.6.1
+mistune==0.8.4
+more-itertools==7.2.0
+nbconvert==5.6.0
+nbformat==4.4.0
+notebook==6.0.1
+numpy==1.17.3
+pandocfilters==1.4.2
+parso==0.5.1
+pexpect==4.7.0
+pickleshare==0.7.5
+prometheus-client==0.7.1
+prompt-toolkit==2.0.10
+ptyprocess==0.6.0
+Pygments==2.4.2
+pylint==2.4.2
+pyparsing==2.4.2
+pyrsistent==0.15.4
+python-dateutil==2.8.0
+pytz==2019.3
+pyzmq==18.1.0
+qtconsole==4.5.5
+Send2Trash==1.5.0
+six==1.12.0
+sqlparse==0.3.0
+terminado==0.8.2
+testpath==0.4.2
+tornado==6.0.3
+traitlets==4.3.3
+typed-ast==1.4.0
+virtualenv==16.7.6
+wcwidth==0.1.7
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+wrapt==1.11.2
+zipp==0.6.0	process:7563	thread:123145321668608
+[INFO]	asctime:2019-10-21 07:12:46,657	module:views	message:source /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi7/bin/activate	process:8032	thread:123145424150528
+[INFO]	asctime:2019-10-21 07:12:50,736	module:views	message:{'チェック': [], 'その他': ['matplotlib'], '機械学習': [], '動的選択肢１': []}	process:8032	thread:123145424150528
+[INFO]	asctime:2019-10-21 07:14:49,616	module:views	message:source /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi8/bin/activate	process:8191	thread:123145565556736
+[INFO]	asctime:2019-10-21 07:14:53,743	module:views	message:{'チェック': [], 'その他': [], '機械学習': ['numpy'], '動的選択肢１': []}	process:8191	thread:123145565556736
+[INFO]	asctime:2019-10-21 07:16:17,818	module:views	message:source /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi10/bin/activate	process:8346	thread:123145502883840
+[INFO]	asctime:2019-10-21 07:16:20,938	module:views	message:{'チェック': [], 'その他': [], '機械学習': ['numpy'], '動的選択肢１': []}	process:8346	thread:123145502883840
+[INFO]	asctime:2019-10-21 07:17:13,421	module:views	message:source /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi11/bin/activate	process:8438	thread:123145357352960
+[INFO]	asctime:2019-10-21 07:17:16,592	module:views	message:{'チェック': [], 'その他': [], '機械学習': ['numpy'], '動的選択肢１': []}	process:8438	thread:123145357352960
+[INFO]	asctime:2019-10-21 07:19:29,933	module:views	message:{'チェック': [], 'その他': [], '機械学習': ['numpy'], '動的選択肢１': []}	process:8607	thread:123145545027584
+[INFO]	asctime:2019-10-21 07:19:30,499	module:views	message:source /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi12/bin/activate	process:8607	thread:123145539772416
+[INFO]	asctime:2019-10-21 07:20:21,019	module:views	message:source /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/totmomi/bin/activate	process:8701	thread:123145416773632
+[INFO]	asctime:2019-10-21 07:20:39,056	module:views	message:{'チェック': [], 'その他': [], '機械学習': ['numpy'], '動的選択肢１': []}	process:8701	thread:123145416773632
+[INFO]	asctime:2019-10-21 07:21:47,188	module:views	message:source /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi14/bin/activate	process:8792	thread:123145438158848
+[INFO]	asctime:2019-10-21 07:21:52,326	module:views	message:/Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/requirements.txt	process:8792	thread:123145438158848
+[INFO]	asctime:2019-10-21 07:21:52,909	module:views	message:pip freeze > /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/requirements.txt	process:8792	thread:123145438158848
+[INFO]	asctime:2019-10-21 07:25:13,671	module:views	message:False	process:8792	thread:123145432903680
+[INFO]	asctime:2019-10-21 07:25:13,671	module:views	message:nan	process:8792	thread:123145432903680
+[INFO]	asctime:2019-10-21 07:27:53,532	module:views	message:False	process:9296	thread:123145486737408
+[INFO]	asctime:2019-10-21 07:27:53,532	module:views	message:nan	process:9296	thread:123145486737408
+[INFO]	asctime:2019-10-21 07:28:12,674	module:views	message:False	process:9296	thread:123145486737408
+[INFO]	asctime:2019-10-21 07:28:12,674	module:views	message:nan	process:9296	thread:123145486737408
+[INFO]	asctime:2019-10-21 07:28:15,781	module:views	message:False	process:9296	thread:123145486737408
+[INFO]	asctime:2019-10-21 07:28:15,781	module:views	message:nan	process:9296	thread:123145486737408
+[INFO]	asctime:2019-10-21 07:28:25,991	module:views	message:False	process:9296	thread:123145486737408
+[INFO]	asctime:2019-10-21 07:28:25,991	module:views	message:nan	process:9296	thread:123145486737408
+[INFO]	asctime:2019-10-21 07:58:22,251	module:views	message:False	process:11344	thread:123145393664000
+[INFO]	asctime:2019-10-21 07:58:22,252	module:views	message:nan	process:11344	thread:123145393664000
+[INFO]	asctime:2019-10-21 08:02:49,440	module:views	message:source /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi20/bin/activate	process:11614	thread:123145523216384
+[INFO]	asctime:2019-10-21 08:06:54,570	module:views	message:/Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/requirements.txt	process:11976	thread:123145578377216
+[INFO]	asctime:2019-10-21 08:06:55,197	module:views	message:pip freeze > /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/requirements.txt	process:11976	thread:123145578377216
+[INFO]	asctime:2019-10-21 08:11:13,474	module:views	message:source /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi21/bin/activate	process:12497	thread:123145568505856
+[INFO]	asctime:2019-10-21 08:11:17,346	module:views	message:/Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/requirements.txt	process:12497	thread:123145568505856
+[INFO]	asctime:2019-10-21 08:11:17,969	module:views	message:pip freeze > requirements.txt	process:12497	thread:123145568505856
+[INFO]	asctime:2019-10-21 08:13:40,827	module:views	message:source /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi22/bin/activate	process:12665	thread:123145431027712
+[INFO]	asctime:2019-10-21 08:13:44,385	module:views	message:/Users/amontom/django/JPHacks2019-demofinal/VMforBeginner	process:12665	thread:123145431027712
+[INFO]	asctime:2019-10-21 08:13:44,849	module:views	message:/Users/amontom/django/JPHacks2019-demofinal/VMforBeginner	process:12665	thread:123145431027712
+[INFO]	asctime:2019-10-21 08:17:00,403	module:views	message:source /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi23/bin/activate	process:12913	thread:123145461764096
+[INFO]	asctime:2019-10-21 08:17:00,409	module:views	message:cd /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi23	process:12913	thread:123145461764096
+[INFO]	asctime:2019-10-21 08:17:13,804	module:views	message:/Users/amontom/django/JPHacks2019-demofinal/VMforBeginner	process:12913	thread:123145461764096
+[INFO]	asctime:2019-10-21 08:19:17,265	module:views	message:source /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi25/bin/activate	process:13072	thread:123145374003200
+[INFO]	asctime:2019-10-21 08:19:17,271	module:views	message:cd /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi25	process:13072	thread:123145374003200
+[INFO]	asctime:2019-10-21 08:19:21,659	module:views	message:/Users/amontom/django/JPHacks2019-demofinal/VMforBeginner	process:13072	thread:123145374003200
+[INFO]	asctime:2019-10-21 08:21:35,562	module:views	message:source /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi26/bin/activate	process:13229	thread:123145368510464
+[INFO]	asctime:2019-10-21 08:21:35,567	module:views	message:cd /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi26	process:13229	thread:123145368510464
+[INFO]	asctime:2019-10-21 08:21:35,568	module:views	message:/Users/amontom/django/JPHacks2019-demofinal/VMforBeginner	process:13229	thread:123145368510464
+[INFO]	asctime:2019-10-21 08:21:39,783	module:views	message:/Users/amontom/django/JPHacks2019-demofinal/VMforBeginner	process:13229	thread:123145368510464
+[INFO]	asctime:2019-10-21 08:45:58,000	module:views	message:source /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi28/bin/activate	process:13990	thread:123145417732096
+[INFO]	asctime:2019-10-21 08:45:58,005	module:views	message:cd tomomi28	process:13990	thread:123145417732096
+[INFO]	asctime:2019-10-21 08:45:58,006	module:views	message:/Users/amontom/django/JPHacks2019-demofinal/VMforBeginner	process:13990	thread:123145417732096
+[INFO]	asctime:2019-10-21 08:49:17,422	module:views	message:/Users/amontom/django/JPHacks2019-demofinal/VMforBeginner	process:14300	thread:123145447223296
+[INFO]	asctime:2019-10-21 08:49:17,426	module:views	message:source /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/add/bin/activate	process:14300	thread:123145447223296
+[INFO]	asctime:2019-10-21 08:49:17,431	module:views	message:cd tomomi28	process:14300	thread:123145447223296
+[INFO]	asctime:2019-10-21 08:49:17,431	module:views	message:/Users/amontom/django/JPHacks2019-demofinal/VMforBeginner	process:14300	thread:123145447223296
+[INFO]	asctime:2019-10-21 08:49:46,407	module:views	message:/Users/amontom/django/JPHacks2019-demofinal/VMforBeginner	process:14373	thread:123145323941888
+[INFO]	asctime:2019-10-21 08:49:46,412	module:views	message:source /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/add/bin/activate	process:14373	thread:123145323941888
+[INFO]	asctime:2019-10-21 08:49:48,530	module:views	message:/Users/amontom/django/JPHacks2019-demofinal/VMforBeginner	process:14373	thread:123145323941888
+[INFO]	asctime:2019-10-21 08:49:48,536	module:views	message:source /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/add/bin/activate	process:14373	thread:123145323941888
+[INFO]	asctime:2019-10-21 08:50:41,765	module:views	message:cd tomomi20	process:14451	thread:123145521995776
+[INFO]	asctime:2019-10-21 08:50:41,766	module:views	message:/Users/amontom/django/JPHacks2019-demofinal/VMforBeginner	process:14451	thread:123145521995776
+[INFO]	asctime:2019-10-21 08:50:57,972	module:views	message:cd tomomi20	process:14458	thread:123145329405952
+[INFO]	asctime:2019-10-21 08:50:57,972	module:views	message:/Users/amontom/django/JPHacks2019-demofinal/VMforBeginner	process:14458	thread:123145329405952
+[INFO]	asctime:2019-10-21 08:53:26,231	module:views	message:cd tomomi20	process:14606	thread:123145546326016
+[INFO]	asctime:2019-10-21 08:53:26,843	module:views	message:pip freeze > requirements.txt	process:14606	thread:123145546326016
+[INFO]	asctime:2019-10-21 09:12:25,297	module:views	message:/Users/amontom/django/JPHacks2019-demofinal/VMforBeginner	process:15839	thread:123145479299072
+[INFO]	asctime:2019-10-21 09:13:30,630	module:views	message:/Users/amontom/django/JPHacks2019-demofinal/VMforBeginner	process:15926	thread:123145449254912
+[INFO]	asctime:2019-10-21 09:14:20,596	module:views	message:virtualenv /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi4 --system-site-packages	process:15940	thread:123145319522304
+[INFO]	asctime:2019-10-21 09:14:21,074	module:views	message:pip freeze > /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi4/requirements.txt	process:15940	thread:123145319522304
+[INFO]	asctime:2019-10-21 09:19:41,942	module:views	message:virtualenv /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi5 --system-site-packages	process:16374	thread:123145565216768
+[INFO]	asctime:2019-10-21 09:19:42,426	module:views	message:pip freeze > /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi5/requirements.txt	process:16374	thread:123145565216768
+[INFO]	asctime:2019-10-21 09:19:54,476	module:views	message:/Users/amontom/django/JPHacks2019-demofinal/VMforBeginner	process:16374	thread:123145565216768
+[INFO]	asctime:2019-10-21 09:21:20,783	module:views	message:False	process:16468	thread:123145372278784
+[INFO]	asctime:2019-10-21 09:21:20,783	module:views	message:nan	process:16468	thread:123145372278784
+[INFO]	asctime:2019-10-21 09:21:24,016	module:views	message:False	process:16468	thread:123145372278784
+[INFO]	asctime:2019-10-21 09:21:24,016	module:views	message:nan	process:16468	thread:123145372278784
+[INFO]	asctime:2019-10-21 09:21:26,731	module:views	message:False	process:16468	thread:123145372278784
+[INFO]	asctime:2019-10-21 09:21:26,731	module:views	message:nan	process:16468	thread:123145372278784
+[INFO]	asctime:2019-10-21 09:21:29,020	module:views	message:False	process:16468	thread:123145372278784
+[INFO]	asctime:2019-10-21 09:21:29,020	module:views	message:nan	process:16468	thread:123145372278784
+[INFO]	asctime:2019-10-21 09:21:31,402	module:views	message:False	process:16468	thread:123145372278784
+[INFO]	asctime:2019-10-21 09:21:31,402	module:views	message:nan	process:16468	thread:123145372278784
+[INFO]	asctime:2019-10-21 09:21:44,123	module:views	message:/Users/amontom/django/JPHacks2019-demofinal/VMforBeginner	process:16468	thread:123145372278784
+[INFO]	asctime:2019-10-21 09:21:57,159	module:views	message:False	process:16468	thread:123145382789120
+[INFO]	asctime:2019-10-21 09:21:57,159	module:views	message:nan	process:16468	thread:123145382789120
+[INFO]	asctime:2019-10-21 09:21:59,655	module:views	message:False	process:16468	thread:123145382789120
+[INFO]	asctime:2019-10-21 09:21:59,655	module:views	message:nan	process:16468	thread:123145382789120
+[INFO]	asctime:2019-10-21 09:23:04,836	module:views	message:a==1.0
+appnope==0.1.0
+astroid==2.3.1
+attrs==19.3.0
+backcall==0.1.0
+bleach==3.1.0
+certifi==2019.9.11
+cmdpr==0.1
+cycler==0.10.0
+decorator==4.4.0
+defusedxml==0.6.0
+Django==2.2.5
+entrypoints==0.3
+importlib-metadata==0.23
+ipykernel==5.1.2
+ipython==7.8.0
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+isort==4.3.21
+jedi==0.15.1
+Jinja2==2.10.3
+jsonschema==3.1.1
+jupyter==1.0.0
+jupyter-client==5.3.4
+jupyter-console==6.0.0
+jupyter-core==4.6.0
+kiwisolver==1.1.0
+lazy-object-proxy==1.4.2
+MarkupSafe==1.1.1
+matplotlib==3.1.1
+mccabe==0.6.1
+mistune==0.8.4
+more-itertools==7.2.0
+nbconvert==5.6.0
+nbformat==4.4.0
+notebook==6.0.1
+numpy==1.17.3
+pandocfilters==1.4.2
+parso==0.5.1
+pexpect==4.7.0
+pickleshare==0.7.5
+prometheus-client==0.7.1
+prompt-toolkit==2.0.10
+ptyprocess==0.6.0
+Pygments==2.4.2
+pylint==2.4.2
+pyparsing==2.4.2
+pyrsistent==0.15.4
+python-dateutil==2.8.0
+pytz==2019.3
+pyzmq==18.1.0
+qtconsole==4.5.5
+Send2Trash==1.5.0
+six==1.12.0
+sqlparse==0.3.0
+terminado==0.8.2
+testpath==0.4.2
+tornado==6.0.3
+traitlets==4.3.3
+typed-ast==1.4.0
+virtualenv==16.7.6
+wcwidth==0.1.7
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+wrapt==1.11.2
+zipp==0.6.0
+	process:16688	thread:123145314586624
+[INFO]	asctime:2019-10-21 09:23:07,580	module:views	message:a==1.0
+appnope==0.1.0
+astroid==2.3.1
+attrs==19.3.0
+backcall==0.1.0
+bleach==3.1.0
+certifi==2019.9.11
+cmdpr==0.1
+cycler==0.10.0
+decorator==4.4.0
+defusedxml==0.6.0
+Django==2.2.5
+entrypoints==0.3
+importlib-metadata==0.23
+ipykernel==5.1.2
+ipython==7.8.0
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+isort==4.3.21
+jedi==0.15.1
+Jinja2==2.10.3
+jsonschema==3.1.1
+jupyter==1.0.0
+jupyter-client==5.3.4
+jupyter-console==6.0.0
+jupyter-core==4.6.0
+kiwisolver==1.1.0
+lazy-object-proxy==1.4.2
+MarkupSafe==1.1.1
+matplotlib==3.1.1
+mccabe==0.6.1
+mistune==0.8.4
+more-itertools==7.2.0
+nbconvert==5.6.0
+nbformat==4.4.0
+notebook==6.0.1
+numpy==1.17.3
+pandocfilters==1.4.2
+parso==0.5.1
+pexpect==4.7.0
+pickleshare==0.7.5
+prometheus-client==0.7.1
+prompt-toolkit==2.0.10
+ptyprocess==0.6.0
+Pygments==2.4.2
+pylint==2.4.2
+pyparsing==2.4.2
+pyrsistent==0.15.4
+python-dateutil==2.8.0
+pytz==2019.3
+pyzmq==18.1.0
+qtconsole==4.5.5
+Send2Trash==1.5.0
+six==1.12.0
+sqlparse==0.3.0
+terminado==0.8.2
+testpath==0.4.2
+tornado==6.0.3
+traitlets==4.3.3
+typed-ast==1.4.0
+virtualenv==16.7.6
+wcwidth==0.1.7
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+wrapt==1.11.2
+zipp==0.6.0
+	process:16688	thread:123145314586624
+[INFO]	asctime:2019-10-21 09:23:20,341	module:views	message:a==1.0
+appnope==0.1.0
+astroid==2.3.1
+attrs==19.3.0
+backcall==0.1.0
+bleach==3.1.0
+certifi==2019.9.11
+cmdpr==0.1
+cycler==0.10.0
+decorator==4.4.0
+defusedxml==0.6.0
+Django==2.2.5
+entrypoints==0.3
+importlib-metadata==0.23
+ipykernel==5.1.2
+ipython==7.8.0
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+isort==4.3.21
+jedi==0.15.1
+Jinja2==2.10.3
+jsonschema==3.1.1
+jupyter==1.0.0
+jupyter-client==5.3.4
+jupyter-console==6.0.0
+jupyter-core==4.6.0
+kiwisolver==1.1.0
+lazy-object-proxy==1.4.2
+MarkupSafe==1.1.1
+matplotlib==3.1.1
+mccabe==0.6.1
+mistune==0.8.4
+more-itertools==7.2.0
+nbconvert==5.6.0
+nbformat==4.4.0
+notebook==6.0.1
+numpy==1.17.3
+pandocfilters==1.4.2
+parso==0.5.1
+pexpect==4.7.0
+pickleshare==0.7.5
+prometheus-client==0.7.1
+prompt-toolkit==2.0.10
+ptyprocess==0.6.0
+Pygments==2.4.2
+pylint==2.4.2
+pyparsing==2.4.2
+pyrsistent==0.15.4
+python-dateutil==2.8.0
+pytz==2019.3
+pyzmq==18.1.0
+qtconsole==4.5.5
+Send2Trash==1.5.0
+six==1.12.0
+sqlparse==0.3.0
+terminado==0.8.2
+testpath==0.4.2
+tornado==6.0.3
+traitlets==4.3.3
+typed-ast==1.4.0
+virtualenv==16.7.6
+wcwidth==0.1.7
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+wrapt==1.11.2
+zipp==0.6.0
+	process:16693	thread:123145553584128
+[INFO]	asctime:2019-10-21 09:23:25,275	module:views	message:a==1.0
+appnope==0.1.0
+astroid==2.3.1
+attrs==19.3.0
+backcall==0.1.0
+bleach==3.1.0
+certifi==2019.9.11
+cmdpr==0.1
+cycler==0.10.0
+decorator==4.4.0
+defusedxml==0.6.0
+Django==2.2.5
+entrypoints==0.3
+importlib-metadata==0.23
+ipykernel==5.1.2
+ipython==7.8.0
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+isort==4.3.21
+jedi==0.15.1
+Jinja2==2.10.3
+jsonschema==3.1.1
+jupyter==1.0.0
+jupyter-client==5.3.4
+jupyter-console==6.0.0
+jupyter-core==4.6.0
+kiwisolver==1.1.0
+lazy-object-proxy==1.4.2
+MarkupSafe==1.1.1
+matplotlib==3.1.1
+mccabe==0.6.1
+mistune==0.8.4
+more-itertools==7.2.0
+nbconvert==5.6.0
+nbformat==4.4.0
+notebook==6.0.1
+numpy==1.17.3
+pandocfilters==1.4.2
+parso==0.5.1
+pexpect==4.7.0
+pickleshare==0.7.5
+prometheus-client==0.7.1
+prompt-toolkit==2.0.10
+ptyprocess==0.6.0
+Pygments==2.4.2
+pylint==2.4.2
+pyparsing==2.4.2
+pyrsistent==0.15.4
+python-dateutil==2.8.0
+pytz==2019.3
+pyzmq==18.1.0
+qtconsole==4.5.5
+Send2Trash==1.5.0
+six==1.12.0
+sqlparse==0.3.0
+terminado==0.8.2
+testpath==0.4.2
+tornado==6.0.3
+traitlets==4.3.3
+typed-ast==1.4.0
+virtualenv==16.7.6
+wcwidth==0.1.7
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+wrapt==1.11.2
+zipp==0.6.0
+	process:16693	thread:123145553584128
+[INFO]	asctime:2019-10-21 09:23:26,907	module:views	message:a==1.0
+appnope==0.1.0
+astroid==2.3.1
+attrs==19.3.0
+backcall==0.1.0
+bleach==3.1.0
+certifi==2019.9.11
+cmdpr==0.1
+cycler==0.10.0
+decorator==4.4.0
+defusedxml==0.6.0
+Django==2.2.5
+entrypoints==0.3
+importlib-metadata==0.23
+ipykernel==5.1.2
+ipython==7.8.0
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+isort==4.3.21
+jedi==0.15.1
+Jinja2==2.10.3
+jsonschema==3.1.1
+jupyter==1.0.0
+jupyter-client==5.3.4
+jupyter-console==6.0.0
+jupyter-core==4.6.0
+kiwisolver==1.1.0
+lazy-object-proxy==1.4.2
+MarkupSafe==1.1.1
+matplotlib==3.1.1
+mccabe==0.6.1
+mistune==0.8.4
+more-itertools==7.2.0
+nbconvert==5.6.0
+nbformat==4.4.0
+notebook==6.0.1
+numpy==1.17.3
+pandocfilters==1.4.2
+parso==0.5.1
+pexpect==4.7.0
+pickleshare==0.7.5
+prometheus-client==0.7.1
+prompt-toolkit==2.0.10
+ptyprocess==0.6.0
+Pygments==2.4.2
+pylint==2.4.2
+pyparsing==2.4.2
+pyrsistent==0.15.4
+python-dateutil==2.8.0
+pytz==2019.3
+pyzmq==18.1.0
+qtconsole==4.5.5
+Send2Trash==1.5.0
+six==1.12.0
+sqlparse==0.3.0
+terminado==0.8.2
+testpath==0.4.2
+tornado==6.0.3
+traitlets==4.3.3
+typed-ast==1.4.0
+virtualenv==16.7.6
+wcwidth==0.1.7
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+wrapt==1.11.2
+zipp==0.6.0
+	process:16693	thread:123145553584128
+[INFO]	asctime:2019-10-21 09:24:03,980	module:views	message:a==1.0
+appnope==0.1.0
+astroid==2.3.1
+attrs==19.3.0
+backcall==0.1.0
+bleach==3.1.0
+certifi==2019.9.11
+cmdpr==0.1
+cycler==0.10.0
+decorator==4.4.0
+defusedxml==0.6.0
+Django==2.2.5
+entrypoints==0.3
+importlib-metadata==0.23
+ipykernel==5.1.2
+ipython==7.8.0
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+isort==4.3.21
+jedi==0.15.1
+Jinja2==2.10.3
+jsonschema==3.1.1
+jupyter==1.0.0
+jupyter-client==5.3.4
+jupyter-console==6.0.0
+jupyter-core==4.6.0
+kiwisolver==1.1.0
+lazy-object-proxy==1.4.2
+MarkupSafe==1.1.1
+matplotlib==3.1.1
+mccabe==0.6.1
+mistune==0.8.4
+more-itertools==7.2.0
+nbconvert==5.6.0
+nbformat==4.4.0
+notebook==6.0.1
+numpy==1.17.3
+pandocfilters==1.4.2
+parso==0.5.1
+pexpect==4.7.0
+pickleshare==0.7.5
+prometheus-client==0.7.1
+prompt-toolkit==2.0.10
+ptyprocess==0.6.0
+Pygments==2.4.2
+pylint==2.4.2
+pyparsing==2.4.2
+pyrsistent==0.15.4
+python-dateutil==2.8.0
+pytz==2019.3
+pyzmq==18.1.0
+qtconsole==4.5.5
+Send2Trash==1.5.0
+six==1.12.0
+sqlparse==0.3.0
+terminado==0.8.2
+testpath==0.4.2
+tornado==6.0.3
+traitlets==4.3.3
+typed-ast==1.4.0
+virtualenv==16.7.6
+wcwidth==0.1.7
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+wrapt==1.11.2
+zipp==0.6.0
+	process:16697	thread:123145494601728
+[INFO]	asctime:2019-10-21 09:24:35,873	module:views	message:a==1.0
+appnope==0.1.0
+astroid==2.3.1
+attrs==19.3.0
+backcall==0.1.0
+bleach==3.1.0
+certifi==2019.9.11
+cmdpr==0.1
+cycler==0.10.0
+decorator==4.4.0
+defusedxml==0.6.0
+Django==2.2.5
+entrypoints==0.3
+importlib-metadata==0.23
+ipykernel==5.1.2
+ipython==7.8.0
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+isort==4.3.21
+jedi==0.15.1
+Jinja2==2.10.3
+jsonschema==3.1.1
+jupyter==1.0.0
+jupyter-client==5.3.4
+jupyter-console==6.0.0
+jupyter-core==4.6.0
+kiwisolver==1.1.0
+lazy-object-proxy==1.4.2
+MarkupSafe==1.1.1
+matplotlib==3.1.1
+mccabe==0.6.1
+mistune==0.8.4
+more-itertools==7.2.0
+nbconvert==5.6.0
+nbformat==4.4.0
+notebook==6.0.1
+numpy==1.17.3
+pandocfilters==1.4.2
+parso==0.5.1
+pexpect==4.7.0
+pickleshare==0.7.5
+prometheus-client==0.7.1
+prompt-toolkit==2.0.10
+ptyprocess==0.6.0
+Pygments==2.4.2
+pylint==2.4.2
+pyparsing==2.4.2
+pyrsistent==0.15.4
+python-dateutil==2.8.0
+pytz==2019.3
+pyzmq==18.1.0
+qtconsole==4.5.5
+Send2Trash==1.5.0
+six==1.12.0
+sqlparse==0.3.0
+terminado==0.8.2
+testpath==0.4.2
+tornado==6.0.3
+traitlets==4.3.3
+typed-ast==1.4.0
+virtualenv==16.7.6
+wcwidth==0.1.7
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+wrapt==1.11.2
+zipp==0.6.0
+	process:16767	thread:123145458262016
+[INFO]	asctime:2019-10-21 09:24:38,565	module:views	message:a==1.0
+appnope==0.1.0
+astroid==2.3.1
+attrs==19.3.0
+backcall==0.1.0
+bleach==3.1.0
+certifi==2019.9.11
+cmdpr==0.1
+cycler==0.10.0
+decorator==4.4.0
+defusedxml==0.6.0
+Django==2.2.5
+entrypoints==0.3
+importlib-metadata==0.23
+ipykernel==5.1.2
+ipython==7.8.0
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+isort==4.3.21
+jedi==0.15.1
+Jinja2==2.10.3
+jsonschema==3.1.1
+jupyter==1.0.0
+jupyter-client==5.3.4
+jupyter-console==6.0.0
+jupyter-core==4.6.0
+kiwisolver==1.1.0
+lazy-object-proxy==1.4.2
+MarkupSafe==1.1.1
+matplotlib==3.1.1
+mccabe==0.6.1
+mistune==0.8.4
+more-itertools==7.2.0
+nbconvert==5.6.0
+nbformat==4.4.0
+notebook==6.0.1
+numpy==1.17.3
+pandocfilters==1.4.2
+parso==0.5.1
+pexpect==4.7.0
+pickleshare==0.7.5
+prometheus-client==0.7.1
+prompt-toolkit==2.0.10
+ptyprocess==0.6.0
+Pygments==2.4.2
+pylint==2.4.2
+pyparsing==2.4.2
+pyrsistent==0.15.4
+python-dateutil==2.8.0
+pytz==2019.3
+pyzmq==18.1.0
+qtconsole==4.5.5
+Send2Trash==1.5.0
+six==1.12.0
+sqlparse==0.3.0
+terminado==0.8.2
+testpath==0.4.2
+tornado==6.0.3
+traitlets==4.3.3
+typed-ast==1.4.0
+virtualenv==16.7.6
+wcwidth==0.1.7
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+wrapt==1.11.2
+zipp==0.6.0
+	process:16767	thread:123145458262016
+[INFO]	asctime:2019-10-21 09:25:08,017	module:views	message:a==1.0
+appnope==0.1.0
+astroid==2.3.1
+attrs==19.3.0
+backcall==0.1.0
+bleach==3.1.0
+certifi==2019.9.11
+cmdpr==0.1
+cycler==0.10.0
+decorator==4.4.0
+defusedxml==0.6.0
+Django==2.2.5
+entrypoints==0.3
+importlib-metadata==0.23
+ipykernel==5.1.2
+ipython==7.8.0
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+isort==4.3.21
+jedi==0.15.1
+Jinja2==2.10.3
+jsonschema==3.1.1
+jupyter==1.0.0
+jupyter-client==5.3.4
+jupyter-console==6.0.0
+jupyter-core==4.6.0
+kiwisolver==1.1.0
+lazy-object-proxy==1.4.2
+MarkupSafe==1.1.1
+matplotlib==3.1.1
+mccabe==0.6.1
+mistune==0.8.4
+more-itertools==7.2.0
+nbconvert==5.6.0
+nbformat==4.4.0
+notebook==6.0.1
+numpy==1.17.3
+pandocfilters==1.4.2
+parso==0.5.1
+pexpect==4.7.0
+pickleshare==0.7.5
+prometheus-client==0.7.1
+prompt-toolkit==2.0.10
+ptyprocess==0.6.0
+Pygments==2.4.2
+pylint==2.4.2
+pyparsing==2.4.2
+pyrsistent==0.15.4
+python-dateutil==2.8.0
+pytz==2019.3
+pyzmq==18.1.0
+qtconsole==4.5.5
+Send2Trash==1.5.0
+six==1.12.0
+sqlparse==0.3.0
+terminado==0.8.2
+testpath==0.4.2
+tornado==6.0.3
+traitlets==4.3.3
+typed-ast==1.4.0
+virtualenv==16.7.6
+wcwidth==0.1.7
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+wrapt==1.11.2
+zipp==0.6.0
+	process:16773	thread:123145566851072
+[INFO]	asctime:2019-10-21 09:25:34,171	module:views	message:False	process:16773	thread:123145572106240
+[INFO]	asctime:2019-10-21 09:25:34,171	module:views	message:nan	process:16773	thread:123145572106240
+[INFO]	asctime:2019-10-21 09:30:24,149	module:views	message:False	process:17119	thread:123145556860928
+[INFO]	asctime:2019-10-21 09:30:24,149	module:views	message:nan	process:17119	thread:123145556860928
+[INFO]	asctime:2019-10-21 09:30:49,482	module:views	message:a==1.0
+appnope==0.1.0
+astroid==2.3.1
+attrs==19.3.0
+backcall==0.1.0
+bleach==3.1.0
+certifi==2019.9.11
+cmdpr==0.1
+cycler==0.10.0
+decorator==4.4.0
+defusedxml==0.6.0
+Django==2.2.5
+entrypoints==0.3
+importlib-metadata==0.23
+ipykernel==5.1.2
+ipython==7.8.0
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+isort==4.3.21
+jedi==0.15.1
+Jinja2==2.10.3
+jsonschema==3.1.1
+jupyter==1.0.0
+jupyter-client==5.3.4
+jupyter-console==6.0.0
+jupyter-core==4.6.0
+kiwisolver==1.1.0
+lazy-object-proxy==1.4.2
+MarkupSafe==1.1.1
+matplotlib==3.1.1
+mccabe==0.6.1
+mistune==0.8.4
+more-itertools==7.2.0
+nbconvert==5.6.0
+nbformat==4.4.0
+notebook==6.0.1
+numpy==1.17.3
+pandocfilters==1.4.2
+parso==0.5.1
+pexpect==4.7.0
+pickleshare==0.7.5
+prometheus-client==0.7.1
+prompt-toolkit==2.0.10
+ptyprocess==0.6.0
+Pygments==2.4.2
+pylint==2.4.2
+pyparsing==2.4.2
+pyrsistent==0.15.4
+python-dateutil==2.8.0
+pytz==2019.3
+pyzmq==18.1.0
+qtconsole==4.5.5
+Send2Trash==1.5.0
+six==1.12.0
+sqlparse==0.3.0
+terminado==0.8.2
+testpath==0.4.2
+tornado==6.0.3
+traitlets==4.3.3
+typed-ast==1.4.0
+virtualenv==16.7.6
+wcwidth==0.1.7
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+wrapt==1.11.2
+zipp==0.6.0
+	process:17119	thread:123145556860928
+[INFO]	asctime:2019-10-21 09:33:53,560	module:views	message:virtualenv /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/testenv --system-site-packages	process:17409	thread:123145455968256
+[INFO]	asctime:2019-10-21 09:33:53,575	module:views	message:source /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/testenv/bin/activate	process:17409	thread:123145455968256
+[INFO]	asctime:2019-10-21 09:33:57,089	module:views	message:{'チェック': [], 'その他': [], '機械学習': ['numpy'], '動的選択肢１': []}	process:17409	thread:123145455968256
+[INFO]	asctime:2019-10-21 09:34:03,706	module:views	message:/Users/amontom/django/JPHacks2019-demofinal/VMforBeginner	process:17409	thread:123145455968256
+[INFO]	asctime:2019-10-21 09:41:02,034	module:views	message:virtualenv /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/testtest --system-site-packages	process:17934	thread:123145501253632
+[INFO]	asctime:2019-10-21 09:41:02,595	module:views	message:pip freeze > /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/testtest/requirements.txt	process:17934	thread:123145501253632
+[INFO]	asctime:2019-10-21 09:41:19,470	module:views	message:False	process:17934	thread:123145511763968
+[INFO]	asctime:2019-10-21 09:41:19,470	module:views	message:nan	process:17934	thread:123145511763968
+[INFO]	asctime:2019-10-21 09:41:23,398	module:views	message:a==1.0
+appnope==0.1.0
+astroid==2.3.1
+attrs==19.3.0
+backcall==0.1.0
+bleach==3.1.0
+certifi==2019.9.11
+cmdpr==0.1
+cycler==0.10.0
+decorator==4.4.0
+defusedxml==0.6.0
+Django==2.2.5
+entrypoints==0.3
+importlib-metadata==0.23
+ipykernel==5.1.2
+ipython==7.8.0
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+isort==4.3.21
+jedi==0.15.1
+Jinja2==2.10.3
+jsonschema==3.1.1
+jupyter==1.0.0
+jupyter-client==5.3.4
+jupyter-console==6.0.0
+jupyter-core==4.6.0
+kiwisolver==1.1.0
+lazy-object-proxy==1.4.2
+MarkupSafe==1.1.1
+matplotlib==3.1.1
+mccabe==0.6.1
+mistune==0.8.4
+more-itertools==7.2.0
+nbconvert==5.6.0
+nbformat==4.4.0
+notebook==6.0.1
+numpy==1.17.3
+pandocfilters==1.4.2
+parso==0.5.1
+pexpect==4.7.0
+pickleshare==0.7.5
+prometheus-client==0.7.1
+prompt-toolkit==2.0.10
+ptyprocess==0.6.0
+Pygments==2.4.2
+pylint==2.4.2
+pyparsing==2.4.2
+pyrsistent==0.15.4
+python-dateutil==2.8.0
+pytz==2019.3
+pyzmq==18.1.0
+qtconsole==4.5.5
+Send2Trash==1.5.0
+six==1.12.0
+sqlparse==0.3.0
+terminado==0.8.2
+testpath==0.4.2
+tornado==6.0.3
+traitlets==4.3.3
+typed-ast==1.4.0
+virtualenv==16.7.6
+wcwidth==0.1.7
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+wrapt==1.11.2
+zipp==0.6.0
+	process:17934	thread:123145511763968
+[INFO]	asctime:2019-10-21 11:26:59,109	module:views	message:virtualenv /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi10 --system-site-packages	process:25197	thread:123145349971968
+[INFO]	asctime:2019-10-21 11:26:59,802	module:views	message:pip freeze > /Users/amontom/django/JPHacks2019-demofinal/VMforBeginner/tomomi10/requirements.txt	process:25197	thread:123145349971968
+[INFO]	asctime:2019-10-21 11:27:07,983	module:views	message:{'チェック': [], 'その他': ['matplotlib'], '機械学習': ['numpy'], '動的選択肢１': []}	process:25197	thread:123145349971968
+[INFO]	asctime:2019-10-21 11:27:29,891	module:views	message:False	process:25197	thread:123145355227136
+[INFO]	asctime:2019-10-21 11:27:29,891	module:views	message:nan	process:25197	thread:123145355227136
+[INFO]	asctime:2019-10-21 11:27:31,870	module:views	message:a==1.0
+appnope==0.1.0
+astroid==2.3.1
+attrs==19.3.0
+backcall==0.1.0
+bleach==3.1.0
+certifi==2019.9.11
+cmdpr==0.1
+cycler==0.10.0
+decorator==4.4.0
+defusedxml==0.6.0
+Django==2.2.5
+entrypoints==0.3
+importlib-metadata==0.23
+ipykernel==5.1.2
+ipython==7.8.0
+ipython-genutils==0.2.0
+ipywidgets==7.5.1
+isort==4.3.21
+jedi==0.15.1
+Jinja2==2.10.3
+jsonschema==3.1.1
+jupyter==1.0.0
+jupyter-client==5.3.4
+jupyter-console==6.0.0
+jupyter-core==4.6.0
+kiwisolver==1.1.0
+lazy-object-proxy==1.4.2
+MarkupSafe==1.1.1
+matplotlib==3.1.1
+mccabe==0.6.1
+mistune==0.8.4
+more-itertools==7.2.0
+nbconvert==5.6.0
+nbformat==4.4.0
+notebook==6.0.1
+numpy==1.17.3
+pandocfilters==1.4.2
+parso==0.5.1
+pexpect==4.7.0
+pickleshare==0.7.5
+prometheus-client==0.7.1
+prompt-toolkit==2.0.10
+ptyprocess==0.6.0
+Pygments==2.4.2
+pylint==2.4.2
+pyparsing==2.4.2
+pyrsistent==0.15.4
+python-dateutil==2.8.0
+pytz==2019.3
+pyzmq==18.1.0
+qtconsole==4.5.5
+Send2Trash==1.5.0
+six==1.12.0
+sqlparse==0.3.0
+terminado==0.8.2
+testpath==0.4.2
+tornado==6.0.3
+traitlets==4.3.3
+typed-ast==1.4.0
+virtualenv==16.7.6
+wcwidth==0.1.7
+webencodings==0.5.1
+widgetsnbextension==3.5.1
+wrapt==1.11.2
+zipp==0.6.0
+	process:25197	thread:123145355227136

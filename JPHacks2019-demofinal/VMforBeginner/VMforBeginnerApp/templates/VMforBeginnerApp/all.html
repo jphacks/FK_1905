@@ -1,0 +1,36 @@
+{% load filter %}
+{% load static %}
+<form action='?{% url_replace_with_nodelete request %}' method="POST">
+    <div class="container-fluid">
+        {{ current_path }}<br>
+        <p>仮想環境一覧</p> 
+        {% for dir in path_list.dirs %}
+            {% if dir.0 != 'VMforBeginnerApp' and dir.0 != 'VMforBeginner' and dir.0 != 'bin' and dir.0 != 'include' and dir.0 != 'lib'%}
+                <li><a href="?{% url_replace_with_nodelete request 'dir_path' dir.1 %}">{{ dir.0 }}</a>
+                {% if forloop.counter != 1 %}
+                    <a class="float-right" href="?{% url_replace request 'delete_path' dir.1 %}">削除</a>
+                    {% comment %} <a class="float-right" href="?{% url_replace request 'jupyternotebook' dir.1 %}">jupyter notebook起動</a> {% endcomment %}
+                    </li>
+                {% endif %}
+            {% endif %}
+            <hr>
+        {% endfor %}
+
+        <p>インストールしたライブラリ一覧</p>
+        {% for file in path_list.files %}
+            {% comment %} <a href="?{% url_replace_with_nodelete request 'open_file_path' file.1 %}">{{ file.0 }}</a> {% endcomment %}
+            {% if file.0 == 'requirements.txt' %}
+                {{ file_content }}
+                <div id = "image">
+                <img src="{% static 'VMforBeginnerApp/img/keras.PNG'  %}" id = "pic">
+            </div>
+                {% comment %} <h>requirement.txtが認識されています</h> {% endcomment %}
+            {% endif %}
+            {% comment %} <a class="float-right" href="?{% url_replace request 'delete_path' file.1 %}">削除</a> {% endcomment %}
+            
+
+            
+            <hr>
+        {% endfor %}
+    </div>
+</form>
