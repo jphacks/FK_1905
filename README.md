@@ -37,40 +37,40 @@ python manage.py runserver
 
 
 #### 1.トップページ
-[1.png]
+[![Te(n)ch-SOZO](1.png)]
 ##### create world
 環境構築を始めましょう!
 ##### open world
 これまでに自分がつくった仮想環境やインストールしたライブラリが確認できます(手順7へ)
 
 #### 2.作りたい仮想環境名を入力してCreate World
-[2.5.png]
+[![Te(n)ch-SOZO](2.5.png)]
 JPHacks2019-final/JPHacks2019-demofinal/VMforBeginnerに自分の入力した名前で環境が構築され、その仮想環境が自動的に起動します。
 
 #### 3.Hello world
-[3.png]
+[![Te(n)ch-SOZO](3.png)]
 真ん中に惑星が誕生しました。まだ必要なライブラリは揃っていないので、不毛な星のようですね。
 
 #### 4.design world
-[4.png]
+[![Te(n)ch-SOZO](4.png)]
 環境を作っていきましょう。ライブラリのインストール画面に飛びます。
 tensolflow、keras、chainerなどの機械学習ライブラリや、データの可視化のためのライブラリを選択しよう。SAVEを押すと、一発でインストールが開始するので、しばらく待ちましょう。
 インストールが終わったら、nextボタンで次へ。(ここで空白のページに飛ぶ場合がありますが、その際は戻るボタンを押してください)
 
 #### 5.できた!
-[5.png]
+[![Te(n)ch-SOZO](5.png)]
 早速GOを押しましょう。jupyter notebookという、機械学習をコードできるツールが起動します。
 
 #### 6.jupyter notebook
-[6.png]
+[![Te(n)ch-SOZO](6.png)]
 必要なことはこれだけ! jupyter notebookは、とっても便利な機械学習のエディタです! 機械学習ライフを楽しんでください。
 
 #### 7.open world
-[7.png]
+[![Te(n)ch-SOZO](7.png)]
 これまでに作った環境をこちらで確認できます。確認したい環境名を押してみてください。
 
 #### 8.
-[8.png]
+[![Te(n)ch-SOZO](8.png)]
 インストールしたライブラリを確認できます。
 
 
