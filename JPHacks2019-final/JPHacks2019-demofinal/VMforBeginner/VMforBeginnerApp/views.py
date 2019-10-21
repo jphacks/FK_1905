@@ -220,7 +220,9 @@ class Home(generic.FormView):
             if os.path.exists(dir_path):
                 output = f'既にフォルダが存在しています {dir_path}'
             else:
-                cmd = f'virtualenv {dir_path}'
+                cmd = f'virtualenv {dir_path} --system-site-packages'
+                execute_cmd(cmd)
+                cmd = f'source {dir_path}/bin/activate'
                 execute_cmd(cmd)
                 output = f'{dir_path}をvirtualenvで作りました。'
         else:
@@ -259,7 +261,7 @@ class Home(generic.FormView):
         if pip_name:
             cmd = f'{python_path} -m pip install -U {pip_name}'
             output = execute_cmd(cmd)
-            
+
         else:
             output = 'pip名を入力してください'
         context = self.get_context_data(form=form, output=output)
@@ -342,12 +344,12 @@ def info(msg):
 class All(generic.FormView):
     template_name = 'VMforBeginnerApp/all.html'
     form_class = EditorForm
-    
+
     def get_file(self):
         current_path = self.get_current_dirpath()
         path = os.path.join(current_path, 'requirement.txt')
         if os.path.exists(path):
-            f = open(path, 'r')    
+            f = open(path, 'r')
             file_content = f.read()
             f.close()
         else:
@@ -388,10 +390,10 @@ class All(generic.FormView):
 
         # カレントの、ファイルやディレクトリの一覧が詰まったオブジェクト
         path_list = make_path_list(current_path)
-        
-        
 
-        # for dir in path_list['dirs']: 
+
+
+        # for dir in path_list['dirs']:
         #     innerpath_list = make_path_list(dir[1])
         #     # info(innerpath_list)
 
@@ -978,4 +980,3 @@ class Home3(generic.FormView):
         function = getattr(self, submit_kind)
         if function and callable(function):
             return function(form)
-
