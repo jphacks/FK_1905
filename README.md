@@ -1,7 +1,7 @@
 # Te(n)ch-SOZO
 
 [![Te(n)ch-SOZO](image.png)](https://www.youtube.com/watch?v=QPRvvKr-bYg)
-
+[![Te(n)ch-SOZO](55.png)]https://youtu.be/Z8RlaNomtIc
 ## 製品概要
 ### 天地創造 X Tech
 
